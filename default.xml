@@ -14,7 +14,7 @@
            revision="ics" />
            
   <remote  name="aocp"
-           fetch="https://github.com/xAOCPx/"
+           fetch="https://github.com/"
            revision="ics" />
      
   <default remote="aosp"
