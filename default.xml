@@ -265,7 +265,7 @@
   <project path="vendor/samsung" name="xAOCPx/vendor_samsung" remote="aocp" revision="ics" />
   <project path="vendor/aocp" name="xAOCPx/vendor_aocp" remote="aocp" revision="ics" />
   <project path="vendor/aokp" name="xAOCPx/vendor_aokp" remote="aocp" revision="ics" />
-  <project path="vendor/aokp/bot" name="xAOCPx/pseudo_buildbot" remote="aocp" revision="ics" />
+  <project path="vendor/aocp/bot" name="xAOCPx/pseudo_buildbot" remote="aocp" revision="ics" />
   <project path="vendor/qcom/opensource/omx/mm-core" name="AOKP/android_vendor_qcom_opensource_omx_mm-core" remote="gh" revision="ics" />
   <project path="vendor/qcom/opensource/omx/mm-video" name="AOKP/android_vendor_qcom_opensource_omx_mm-video" remote="gh" revision="ics" />
   <project path="vendor/qcom/opensource/v8" name="AOKP/android_vendor_qcom_opensource_v8" remote="gh" revision="ics" />
