@@ -206,7 +206,7 @@
   <project path="kernel/samsung/msm8660-common" name="xAOCPx/android_kernel_samsung_msm8660-common" remote="aocp" revision="ics" />
   <project path="libcore" name="xAOCPx/libcore" remote="aocp" revision="ics" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
-  <!--<project path="packages/apps/AOCPWallpapers" name="xAOCPx/packages_apps_AOCPWallpapers" remote="aocp" revision="ics" />-->
+  <project path="packages/wallpapers/AOCPWallpapers" name="xAOCPx/packages_wallpapers_AOCPWallpapers" remote="aocp" revision="ics" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/Bluetooth" name="xAOCPx/packages_apps_Bluetooth" remote="aocp" revision="ics"/>
   <project path="packages/apps/Browser" name="xAOCPx/packages_apps_Browser" remote="aocp" revision="ics" />
