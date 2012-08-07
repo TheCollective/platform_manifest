@@ -39,11 +39,14 @@
   <project path="device/samsung/aries-common" name="xAOCPx/aocp_device_samsung_aries-common" remote="aocp" revision="ics" />
   <project path="device/samsung/captivatemtd" name="xAOCPx/aocp_device_samsung_captivatemtd" remote="aocp" revision="ics" />
   <project path="device/samsung/crespo" name="xAOCPx/aocp_device_samsung_crespo" remote="gh" revision="ics" />
+  <project path="device/samsung/d2att" name="xAOCPx/android_device_samsung_d2att" remote="aocp" revision="ics" />
+  <project path="device/samsung/d2-common" name="xAOCPx/android_device_samsung_d2-common" remote="aocp" revision="ics" />
   <project path="device/samsung/fascinatemtd" name="xAOCPx/aocp_device_samsung_fascinatemtd" remote="aocp" revision="ics" />
   <project path="device/samsung/galaxysmtd" name="xAOCPx/aocp_device_samsung_galaxysmtd" remote="aocp" revision="ics" />
   <project path="device/samsung/infuse4g" name="xAOCPx/android_device_samsung_infuse4g" remote="aocp" revision="ics" />
   <project path="device/samsung/maguro" name="xAOCPx/aocp_device_samsung_maguro" remote="aocp" revision="ics" />
   <project path="device/samsung/msm8660-common" name="xAOCPx/aocp_device_samsung_msm8660-common" remote="aocp" revision="ics" />
+  <project path="device/samsung/msm8960-common" name="xAOCPx/android_device_samsung_msm8960-common" remote="aocp" revision="ics" />
   <project path="device/samsung/n7000" name="xAOCPx/aocp_device_samsung_n7000" remote="aocp" revision="ics" />
   <project path="device/samsung/quincyatt" name="xAOCPx/aocp_device_samsung_quincyatt" remote="aocp" revision="ics" />
   <project path="device/samsung/quincy-common" name="xAOCPx/aocp_device_samsung_quincy-common" remote="aocp" revision="ics" />
@@ -203,6 +206,8 @@
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="hardware/ti/wlan" name="xAOCPx/android_hardware_ti_wlan" remote="aocp" revision="ics" />
   <project path="hardware/ti/wpan" name="xAOCPx/android_hardware_ti_wpan" remote="aocp" revision="ics" />
+  <project path="kernel/samsung/msm8660-common" name="xAOCPx/android_kernel_samsung_msm8660-common" remote="aocp" revision="ics" />
+  <project path="kernel/samsung/d2" name="xAOCPx/android_kernel_samsung_d2" remote="aocp" revision="ics" />
   <project path="libcore" name="xAOCPx/libcore" remote="aocp" revision="ics" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/AoCP" name="xAOCPx/packages_apps_AoCP" remote="aocp" revision="ics" />
