@@ -50,6 +50,7 @@
   <project path="device/samsung/n7000" name="xAOCPx/aocp_device_samsung_n7000" remote="aocp" revision="ics" />
   <project path="device/samsung/quincyatt" name="xAOCPx/aocp_device_samsung_quincyatt" remote="aocp" revision="ics" />
   <project path="device/samsung/quincy-common" name="xAOCPx/aocp_device_samsung_quincy-common" remote="aocp" revision="ics" />
+  <project path="device/motorola/spyder" name="xAOCPx/android_device_motorola_spyder" remote="aocp" revision="ics" />
   <project path="device/samsung/skyrocket" name="xAOCPx/aocp_device_samsung_skyrocket" remote="aocp" revision="ics" />
   <project path="device/samsung/tuna" name="xAOCPx/device_samsung_tuna" remote="aocp" revision="ics" />
   <project path="device/samsung/vibrantmtd" name="xAOCPx/aocp_device_samsung_vibrantmtd" remote="aocp" revision="ics" />
