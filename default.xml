@@ -270,7 +270,7 @@
   <project path="system/vold" name="xAOCPx/system_vold" remote="aocp" revision="ics" />
 
   <project path="vendor/samsung" name="xAOCPx/vendor_samsung" remote="aocp" revision="ics" />
-  <project path="vendor/motorola" name="xAOCPx/vendor_motorola" remote="aocp" revision="ics" />
+  <project path="vendor/motorola" name="xAOCPx/android_vendor_motorola_spyder" remote="aocp" revision="ics" />
   <project path="vendor/aocp" name="xAOCPx/vendor_aocp" remote="aocp" revision="ics" />
   <project path="vendor/aokp" name="xAOCPx/vendor_aokp" remote="aocp" revision="ics" />
   <project path="vendor/aocp/bot" name="xAOCPx/pseudo_buildbot" remote="aocp" revision="ics" />
