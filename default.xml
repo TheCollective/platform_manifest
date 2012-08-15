@@ -27,7 +27,7 @@
   <project path="bionic" name="xAOCPx/bionic" remote="aocp" revision="ics" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
-  <project path="bootable/recovery" name="xAOCPx/android_bootable_recovery" remote="aocp" revision="ics" />
+  <project path="bootable/recovery" name="xAOCPx/android_bootable_recovery" remote="aocp" revision="cm-9.0.0" />
   <project path="cts" name="platform/cts" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
   <project path="dalvik" name="xAOCPx/platform_dalvik" remote="aocp" revision="ics" />
   <project path="development" name="xAOCPx/platform_development" remote="aocp" revision="ics" />
