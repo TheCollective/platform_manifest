@@ -220,12 +220,12 @@
   <project path="hardware/broadcom/wlan" name="xAOCPx/android_hardware_broadcom_wlan" remote="aocp" revision="jellybean" />
   <project path="hardware/invensense" name="xAOCPx/platform_hardware_invensense" remote="aocp" revision="jellybean" />
   <project path="hardware/libhardware" name="xAOCPx/android_hardware_libhardware" remote="aocp" revision="jellybean" />
-  <project path="hardware/libhardware_legacy" name="xAOCPx/android_hardware_libhardware_legacy" remote="xAOCPx" revision="jellybean" />
+  <project path="hardware/libhardware_legacy" name="xAOCPx/android_hardware_libhardware_legacy" remote="aocp" revision="jellybean" />
   <project path="hardware/msm7k" name="xAOCPx/android_hardware_msm7k" remote="aocp" revision="jellybean" />
   <project path="hardware/qcom/audio" name="xAOCPx/android_hardware_qcom_audio" remote="xAOCPx" revision="jellybean" />
-  <project path="hardware/qcom/display" name="xAOCPx/android_hardware_qcom_display" remote="xAOCPx" revision="jellybean" />
+  <project path="hardware/qcom/display" name="xAOCPx/android_hardware_qcom_display" remote="aocp" revision="jellybean" />
   <project path="hardware/qcom/gps" name="xAOCPx/hardware_qcom_gps" remote="aocp" revision="jellybean" />
-  <project path="hardware/qcom/media" name="xAOCPx/android_hardware_qcom_media" remote="xAOCPx" revision="jellybean" />
+  <project path="hardware/qcom/media" name="xAOCPx/android_hardware_qcom_media" remote="aocp" revision="jellybean" />
   <project path="hardware/ril" name="xAOCPx/android_hardware_ril" remote="xAOCPx" revision="jellybean" />
   <project path="hardware/ti/omap3" name="xAOCPx/platform_hardware_ti_omap3" remote="aocp" revision="jellybean" />
   <project path="hardware/ti/omap4xxx" name="xAOCPx/platform_hardware_ti_omap4xxx" remote="aocp" revision="jellybean" />
@@ -328,6 +328,6 @@
   <project path="system/su" name="android_system_su" remote="cm" revision="jellybean" />
   <project path="packages/wallpapers/AOCPWallpapers" name="xAOCPx/packages_wallpapers_AOCPWallpapers" remote="aocp" revision="jellybean" />
 
-  <project path="platform_manifest" name="xAOCPx/platform_manifest" remote="xAOCPx" revision="jellybean" />
+  <project path="platform_manifest" name="AOKP/platform_manifest" remote="aokp" revision="jellybean" />
 
 </manifest>
