@@ -253,7 +253,7 @@
   <project path="packages/apps/KeyChain" name="xAOCPx/packages_apps_KeyChain" remote="aocp" revision="jellybean" />
   <project path="packages/apps/Launcher2" name="xAOCPx/android_packages_apps_Launcher2" remote="aocp" revision="jellybean" />
   <project path="packages/apps/LegacyCamera" name="xAOCPx/packages_apps_LegacyCamera" remote="aocp" revision="jellybean" />
-  <project path="packages/apps/Mms" name="xAOCPx/packages_apps_Mms" remote="aocp" revision="jellybean" />
+  <project path="packages/apps/Mms" name="xAOCPx/aocp_packages_apps_Mms" remote="aocp" revision="jellybean" />
   <project path="packages/apps/Music" name="xAOCPx/packages_apps_Music" remote="aocp" revision="jellybean" />
   <project path="packages/apps/MusicFX" name="xAOCPx/packages_apps_MusicFX" remote="aocp" revision="jellybean" />
   <project path="packages/apps/Nfc" name="xAOCPx/packages_apps_Nfc" remote="aocp" revision="jellybean" />
