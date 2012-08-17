@@ -1,2 +1,8 @@
-$ repo init -u https://github.com/AOKP/platform_manifest.git -b jb
+AOCP JELLYBEAN
+
+$ repo init -u https://github.com/xAOCPx/platform_manifest.git -b jb
 $ repo sync
+
+Or if you have slow internet
+
+$ repo sync -j1
