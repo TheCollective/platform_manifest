@@ -323,7 +323,7 @@
   <project path="system/vold" name="android_system_vold" remote="cm" revision="jellybean" />
 
   <project path="vendor/aocp" name="xAOCPx/vendor_aocp" remote="aocp" revision="jellybean" />
-  <project path="vendor/xAOCPx/bot" name="xAOCPx/pseudo_buildbot" remote="aocp" revision="jellybean" />
+  <project path="vendor/aocp/bot" name="xAOCPx/pseudo_buildbot" remote="aocp" revision="jellybean" />
   <project path="vendor/samsung" name="xAOCPx/vendor_samsung" remote="aocp" revision="jellybean" />
   
   <project path="system/su" name="android_system_su" remote="cm" revision="jellybean" />
