@@ -222,7 +222,7 @@
   <project path="hardware/libhardware" name="xAOCPx/android_hardware_libhardware" remote="aocp" revision="jellybean" />
   <project path="hardware/libhardware_legacy" name="xAOCPx/android_hardware_libhardware_legacy" remote="aocp" revision="jellybean" />
   <project path="hardware/msm7k" name="xAOCPx/android_hardware_msm7k" remote="aocp" revision="jellybean" />
-  <project path="hardware/qcom/audio" name="xAOCPx/android_hardware_qcom_audio" remote="xAOCPx" revision="jellybean" />
+  <project path="hardware/qcom/audio" name="xAOCPx/android_hardware_qcom_audio" remote="aocp" revision="jellybean" />
   <project path="hardware/qcom/display" name="xAOCPx/android_hardware_qcom_display" remote="aocp" revision="jellybean" />
   <project path="hardware/qcom/gps" name="xAOCPx/hardware_qcom_gps" remote="aocp" revision="jellybean" />
   <project path="hardware/qcom/media" name="xAOCPx/android_hardware_qcom_media" remote="aocp" revision="jellybean" />
