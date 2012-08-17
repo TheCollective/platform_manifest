@@ -226,7 +226,7 @@
   <project path="hardware/qcom/display" name="xAOCPx/android_hardware_qcom_display" remote="aocp" revision="jellybean" />
   <project path="hardware/qcom/gps" name="xAOCPx/hardware_qcom_gps" remote="aocp" revision="jellybean" />
   <project path="hardware/qcom/media" name="xAOCPx/android_hardware_qcom_media" remote="aocp" revision="jellybean" />
-  <project path="hardware/ril" name="xAOCPx/android_hardware_ril" remote="xAOCPx" revision="jellybean" />
+  <project path="hardware/ril" name="xAOCPx/android_hardware_ril" remote="aocp" revision="jellybean" />
   <project path="hardware/ti/omap3" name="xAOCPx/platform_hardware_ti_omap3" remote="aocp" revision="jellybean" />
   <project path="hardware/ti/omap4xxx" name="xAOCPx/platform_hardware_ti_omap4xxx" remote="aocp" revision="jellybean" />
   <project path="hardware/ti/wlan" name="xAOCPx/platform_hardware_ti_wlan" remote="aocp" revision="jellybean" />
@@ -240,7 +240,7 @@
   <project path="packages/apps/Browser" name="xAOCPx/packages_apps_Browser" remote="aocp" revision="jellybean" />
   <project path="packages/apps/Calculator" name="xAOCPx/packages_apps_Calculator" remote="aocp" revision="jellybean" />
   <project path="packages/apps/Calendar" name="xAOCPx/packages_apps_Calendar" remote="aocp" revision="jellybean" />
-  <project path="packages/apps/Camera" name="xAOCPx/packages_apps_Camera" remote="xAOCPx" revision="jellybean" />
+  <project path="packages/apps/Camera" name="xAOCPx/packages_apps_Camera" remote="aocp" revision="jellybean" />
   <project path="packages/apps/CellBroadcastReceiver" name="xAOCPx/packages_apps_CellBroadcastReceiver" remote="aocp" revision="jellybean" />
   <project path="packages/apps/CertInstaller" name="xAOCPx/packages_apps_CertInstaller" remote="aocp" revision="jellybean" />
   <project path="packages/apps/Contacts" name="xAOCPx/packages_apps_Contacts" remote="aocp" revision="jellybean" />
