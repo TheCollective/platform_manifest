@@ -290,7 +290,7 @@
   <project path="packages/wallpapers/NoiseField" name="platform/packages/wallpapers/NoiseField" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
   <project path="packages/wallpapers/PhaseBeam" name="platform/packages/wallpapers/PhaseBeam" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
   <project path="pdk" name="platform/pdk" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
-  <project path="prebuilt" name="xAOCPx/platform_prebuilt" remote="aocp" revision="jellybean" />
+  <project path="prebuilt" name="xAOCPx/prebuilt" remote="aocp" revision="jellybean" />
   <project path="prebuilts/eclipse" name="platform/prebuilts/eclipse" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
   <project path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
   <project path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
