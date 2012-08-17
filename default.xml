@@ -325,6 +325,7 @@
   <project path="vendor/aocp" name="xAOCPx/vendor_aocp" remote="aocp" revision="jellybean" />
   <project path="vendor/aocp/bot" name="xAOCPx/pseudo_buildbot" remote="aocp" revision="jellybean" />
   <project path="vendor/samsung" name="xAOCPx/vendor_samsung" remote="aocp" revision="jellybean" />
+  <project path="vendor/samsung/quincyatt" name="xAOCPx/vendor_proprietary_quincyatt" remote="aocp" revision="jellybean" />
   
   <project path="system/su" name="android_system_su" remote="cm" revision="jellybean" />
   <project path="packages/wallpapers/AOCPWallpapers" name="xAOCPx/packages_wallpapers_AOCPWallpapers" remote="aocp" revision="jellybean" />
