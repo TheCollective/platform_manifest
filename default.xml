@@ -315,7 +315,7 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
   <project path="sdk" name="xAOCPx/android_sdk" remote="aocp" revision="jellybean" />
   <project path="system/bluetooth" name="xAOCPx/system_bluetooth" remote="aocp" revision="jellybean" />
-  <project path="system/core" name="xAOCPx/android_system_core" remote="aocp" revision="jellybean" />
+  <project path="system/core" name="xAOCPx/system_core" remote="aocp" revision="jellybean" />
   <project path="system/extras" name="xAOCPx/system_extras" remote="aocp" revision="jellybean" />
   <project path="system/media" name="platform/system/media" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
   <project path="system/netd" name="android_system_netd" remote="cm" revision="jellybean" />
