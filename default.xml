@@ -328,6 +328,6 @@
   <project path="system/su" name="android_system_su" remote="cm" revision="jellybean" />
   <project path="packages/wallpapers/AOCPWallpapers" name="xAOCPx/packages_wallpapers_AOCPWallpapers" remote="aocp" revision="jellybean" />
 
-  <project path="platform_manifest" name="AOKP/platform_manifest" remote="aokp" revision="jellybean" />
+  <project path="platform_manifest" name="xAOCPx/platform_manifest" remote="aocp" revision="jellybean" />
 
 </manifest>
