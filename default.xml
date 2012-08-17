@@ -218,7 +218,7 @@
   <project path="frameworks/wilhelm" name="xAOCPx/frameworks_wilhelm" remote="aocp" revision="jellybean" />
   <project path="gdk" name="xAOCPx/platform_gdk" remote="aocp" revision="jellybean" />
   <project path="hardware/broadcom/wlan" name="xAOCPx/android_hardware_broadcom_wlan" remote="aocp" revision="jellybean" />
-  <project path="hardware/invensense" name="xAOCPx/platform_hardware_invensense" remote="aocp" revision="jellybean" />
+  <project path="hardware/invensense" name="xAOCPx/android_hardware_invensense" remote="aocp" revision="jellybean" />
   <project path="hardware/libhardware" name="xAOCPx/android_hardware_libhardware" remote="aocp" revision="jellybean" />
   <project path="hardware/libhardware_legacy" name="xAOCPx/android_hardware_libhardware_legacy" remote="aocp" revision="jellybean" />
   <project path="hardware/msm7k" name="xAOCPx/android_hardware_msm7k" remote="aocp" revision="jellybean" />
