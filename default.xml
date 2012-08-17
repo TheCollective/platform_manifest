@@ -233,6 +233,7 @@
   <project path="hardware/ti/wpan" name="xAOCPx/android_hardware_ti_wpan" remote="aocp" revision="jellybean" />
   <project path="libcore" name="platform/libcore" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
   <project path="libnativehelper" name="platform/libnativehelper" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
+  <project path="kernel/samsung/msm8660-common" name="xAOCPx/android_kernel_samsung_msm8660-common" remote="aocp" revision="jellybean" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
   <project path="packages/apps/AoCP" name="xAOCPx/packages_apps_AoCP" remote="aocp" revision="jellybean" />
   <project path="packages/apps/BasicSmsReciever" name="xAOCPx/packages_apps_BasicSmsReciever" remote="aocp" revision="jellybean" />
