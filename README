@@ -12,7 +12,7 @@ $ repo sync -j1
 
 # Then open bashrc
     sudo gedit bashrc
-# Add this line to the bootom of bashrc
+# Add this line to the bottom of bashrc
     export USE_CCACE=1
 
 # Then cd into your working directory, type in terminal
