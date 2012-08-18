@@ -6,3 +6,14 @@ $ repo sync
 Or if you have slow internet
 
 $ repo sync -j1
+
+# To use CCACHE
+    sudo apt-get install ccache
+
+# Then open bashrc
+    sudo gedit bashrc
+# Add this line to the bootom of bashrc
+    export USE_CCACE=1
+
+# Then cd into your working directory, type in terminal
+    prebuilt/linux-x86/ccache/ccache -M 50G
