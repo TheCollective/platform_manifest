@@ -7,6 +7,9 @@ Or if you have slow internet
 
 $ repo sync -j1
 
+PROPER BUILD COMMAND
+  . build/envsetup.sh && brunch (device)
+
 # To use CCACHE
     sudo apt-get install ccache
 
