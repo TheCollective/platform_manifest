@@ -232,6 +232,7 @@
   <project path="hardware/ril" name="xAOCPx/android_hardware_ril" remote="aocp" revision="jellybean" />
   <project path="hardware/ti/omap3" name="xAOCPx/platform_hardware_ti_omap3" remote="aocp" revision="jellybean" />
   <project path="hardware/ti/omap4xxx" name="xAOCPx/platform_hardware_ti_omap4xxx" remote="aocp" revision="jellybean" />
+  <project path="hardware/samsung" name="xAOCPx/android_hardware_samsung" remote="aocp" revision="jellybean" />
   <project path="hardware/ti/wlan" name="xAOCPx/android_hardware_ti_wlan" remote="aocp" revision="jellybean" />
   <project path="hardware/ti/wpan" name="xAOCPx/android_hardware_ti_wpan" remote="aocp" revision="jellybean" />
   <project path="libcore" name="platform/libcore" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
