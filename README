@@ -10,13 +10,3 @@ $ repo sync -j1
 PROPER BUILD COMMAND
   . build/envsetup.sh && brunch (device)
 
-# To use CCACHE
-    sudo apt-get install ccache
-
-# Then open bashrc
-    sudo gedit bashrc
-# Add this line to the bottom of bashrc
-    export USE_CCACE=1
-
-# Then cd into your working directory, type in terminal
-    prebuilt/linux-x86/ccache/ccache -M 50G
