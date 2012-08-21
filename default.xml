@@ -242,7 +242,7 @@
   <project path="kernel/samsung/aries" name="xAOCPx/android_kernel_samsung_aries" remote="aocp" revision="jellybean" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
   <project path="packages/apps/AoCP" name="xAOCPx/packages_apps_AoCP" remote="aocp" revision="jellybean" />
-  <project path="packages/apps/BasicSmsReciever" name="xAOCPx/packages_apps_BasicSmsReciever" remote="aocp" revision="jellybean" />
+  <project path="packages/apps/BasicSmsReceiver" name="xAOCPx/packages_apps_BasicSmsReceiver" remote="aocp" revision="jellybean" />
   <project path="packages/apps/Bluetooth" name="xAOCPx/packages_apps_Bluetooth" remote="aocp" revision="jellybean" />
   <project path="packages/apps/Browser" name="xAOCPx/packages_apps_Browser" remote="aocp" revision="jellybean" />
   <project path="packages/apps/Calculator" name="xAOCPx/packages_apps_Calculator" remote="aocp" revision="jellybean" />
