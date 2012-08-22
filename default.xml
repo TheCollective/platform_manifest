@@ -242,6 +242,7 @@
   <project path="kernel/samsung/aries" name="xAOCPx/android_kernel_samsung_aries" remote="aocp" revision="jellybean" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
   <project path="packages/apps/AoCP" name="xAOCPx/packages_apps_AoCP" remote="aocp" revision="jellybean" />
+  <project path="packages/apps/Aspire" name="xAOCPx/packages_apps_Aspire" remote="aocp" revision="jellybean" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
   <project path="packages/apps/Bluetooth" name="xAOCPx/packages_apps_Bluetooth" remote="aocp" revision="jellybean" />
   <project path="packages/apps/Browser" name="xAOCPx/packages_apps_Browser" remote="aocp" revision="jellybean" />
@@ -258,7 +259,6 @@
   <project path="packages/apps/Gallery2" name="xAOCPx/packages_apps_Gallery2" remote="aocp" revision="jellybean" />
   <project path="packages/apps/HTMLViewer" name="xAOCPx/packages_apps_HTMLViewer" remote="aocp" revision="jellybean" />
   <project path="packages/apps/KeyChain" name="xAOCPx/packages_apps_KeyChain" remote="aocp" revision="jellybean" />
-  <project path="packages/apps/Launcher2" name="xAOCPx/android_packages_apps_Launcher2" remote="aocp" revision="jellybean" />
   <project path="packages/apps/LegacyCamera" name="xAOCPx/packages_apps_LegacyCamera" remote="aocp" revision="jellybean" />
   <project path="packages/apps/Mms" name="xAOCPx/aocp_packages_apps_Mms" remote="aocp" revision="jellybean" />
   <project path="packages/apps/Music" name="xAOCPx/packages_apps_Music" remote="aocp" revision="jellybean" />
