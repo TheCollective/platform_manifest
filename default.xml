@@ -7,7 +7,7 @@
   <remote name="github"
           fetch="https://git@github.com/xAOCPx" />
 
-  <default revision="refs/heads/jellybean"
+  <default revision="jellybean"
            remote="github"
            sync-j="4" />
 
