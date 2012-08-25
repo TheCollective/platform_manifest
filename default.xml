@@ -269,7 +269,7 @@
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
   <project path="packages/apps/Settings" name="xAOCPx/packages_apps_Settings" remote="aocp" revision="jellybean" />
-  <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" remote="aocp" revision="jellybean" />
+  <project path="packages/apps/SoundRecorder" name="xAOCPx/packages_apps_SoundRecorder" remote="aocp" revision="jellybean" />
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
   <project path="packages/apps/Stk" name="xAOCPx/packages_apps_Stk" remote="aocp" revision="jellybean" />
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" remote="aosp" revision="refs/tags/android-4.1.1_r1" />
