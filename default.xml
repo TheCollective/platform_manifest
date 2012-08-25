@@ -12,9 +12,7 @@
            fetch="https://github.com/CyanogenMod/"
            review="review.cyanogenmod.com" />
 
-  # <remote  name="aocp"
-           fetch="https://github.com/"
-           revision="jellybean" />
+
 
   <default remote="aosp"
            sync-j="4" />
