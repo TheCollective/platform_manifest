@@ -322,14 +322,10 @@
   <project path="system/netd" name="android_system_netd" />
   <project path="system/security" name="platform/system/security" />
   <project path="system/vold" name="android_system_vold" />
-
   <project path="vendor/aocp" name="xAOCPx/vendor_aocp" />
   <project path="vendor/aocp/bot" name="xAOCPx/pseudo_buildbot" />
   <project path="vendor/samsung" name="xAOCPx/vendor_samsung" />
   <project path="vendor/samsung/quincyatt" name="xAOCPx/vendor_proprietary_quincyatt" />
-  
   <project path="system/su" name="android_system_su" />
   <project path="packages/wallpapers/AOCPWallpapers" name="xAOCPx/packages_wallpapers_AOCPWallpapers" />
-
-
 </manifest>
