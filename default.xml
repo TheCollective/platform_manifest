@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="aosp"
-           fetch="https://android.googlesource.com/" />
+  <remote name="aosp"
+          fetch="https://android.googlesource.com" />
 
-  <remote  name="aokp"
-           fetch="https://github.com/"
-           review="gerrit.aokp.co" />
+  <remote name="github"
+          fetch=".."
+          review="review.cyanogenmod.com" />
 
-  <remote  name="cm"
-           fetch="https://github.com/CyanogenMod/"
-           review="review.cyanogenmod.com" />
+  <remote name="private"
+          fetch="ssh://git@github.com" />
+           
+  <remote name="aocp"
+          fetch="https://github.com" />
 
-
-
-  <default remote="aosp"
+  <default revision="refs/heads/jellybean"
+           remote="github"
            sync-j="4" />
 
   <project path="build" name="xAOCPx/android_build" remote="aocp" revision="jellybean" >
