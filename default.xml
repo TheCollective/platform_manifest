@@ -5,13 +5,6 @@
           fetch="https://android.googlesource.com" />
 
   <remote name="github"
-          fetch=".."
-          review="review.cyanogenmod.com" />
-
-  <remote name="private"
-          fetch="ssh://git@github.com" />
-
-  <remote name="github"
           fetch="https://github.com/" />
 
   <default revision="refs/heads/jellybean"
