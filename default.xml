@@ -11,7 +11,7 @@
            remote="github"
            sync-j="4" />
 
-  <project path="build" name="xAOCPx/android_build" />
+  <project path="build" name="xAOCPx/android_build">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   
