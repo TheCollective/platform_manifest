@@ -8,5 +8,5 @@ Or if you have slow internet
 $ repo sync -j1
 
 PROPER BUILD COMMAND
-  . build/envsetup.sh && brunch (device)
+  . build.sh (device)
 
