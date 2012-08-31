@@ -48,6 +48,7 @@
   <project path="device/samsung/msm8960-common" name="xAOCPx/android_device_samsung_msm8960-common" remote="aocp" revision="jellybean" />
   <project path="device/samsung/quincy-common" name="xAOCPx/aocp_device_samsung_quincy-common" remote="aocp" revision="jellybean" />
   <project path="device/samsung/quincyatt" name="xAOCPx/aocp_device_samsung_quincyatt" remote="aocp" revision="jellybean" />
+  <project path="device/samsung/toro" name="xAOCPx/aocp_device_samsung_toro" remote="aocp" revision="jellybean" />
   <project path="device/samsung/tuna" name="xAOCPx/aocp_device_samsung_tuna" remote="aocp" revision="jellybean" />
   <project path="device/ti/panda" name="xAOCPx/device_ti_panda" remote="aocp" revision="jellybean" />
   <project path="docs/source.android.com" name="xAOCPx/platform_docs_source.android.com" remote="aocp" revision="jellybean" />
