@@ -42,10 +42,12 @@
   <project path="device/samsung/crespo" name="xAOCPx/aocp_device_samsung_crespo" remote="aocp" revision="jellybean" />
   <project path="device/samsung/d2-common" name="xAOCPx/android_device_samsung_d2-common" remote="aocp" revision="jellybean" />
   <project path="device/samsung/d2att" name="xAOCPx/android_device_samsung_d2att" remote="aocp" revision="jellybean" />
+  <project path="device/samsung/galaxys2-common" name="AOKP/android_device_samsung_galaxys2-common" remote="aokp" revision="jb" />
   <project path="device/samsung/infuse4g" name="xAOCPx/android_device_samsung_infuse4g" remote="aocp" revision="jellybean" />
   <project path="device/samsung/maguro" name="xAOCPx/aocp_device_samsung_maguro" remote="aocp" revision="jellybean" />
   <project path="device/samsung/msm8660-common" name="xAOCPx/aocp_device_samsung_msm8660-common" remote="aocp" revision="jellybean" />
   <project path="device/samsung/msm8960-common" name="xAOCPx/android_device_samsung_msm8960-common" remote="aocp" revision="jellybean" />
+  <project path="device/samsung/n7000" name="AOKP/android_device_samsung_n7000" remote="aokp" revision="jb" />
   <project path="device/samsung/quincy-common" name="xAOCPx/aocp_device_samsung_quincy-common" remote="aocp" revision="jellybean" />
   <project path="device/samsung/quincyatt" name="xAOCPx/aocp_device_samsung_quincyatt" remote="aocp" revision="jellybean" />
   <project path="device/samsung/toro" name="xAOCPx/aocp_device_samsung_toro" remote="aocp" revision="jellybean" />
@@ -231,6 +233,7 @@
   <project path="hardware/qcom/gps" name="xAOCPx/hardware_qcom_gps" remote="aocp" revision="jellybean" />
   <project path="hardware/qcom/media" name="xAOCPx/android_hardware_qcom_media" remote="aocp" revision="jellybean" />
   <project path="hardware/ril" name="xAOCPx/android_hardware_ril" remote="aocp" revision="jellybean" />
+  <project path="hardware/samsung" name="android_hardware_samsung" remote="cm" revision="jellybean" />
   <project path="hardware/ti/omap3" name="xAOCPx/platform_hardware_ti_omap3" remote="aocp" revision="jellybean" />
   <project path="hardware/ti/omap4xxx" name="xAOCPx/platform_hardware_ti_omap4xxx" remote="aocp" revision="jellybean" />
   <project path="hardware/ti/wlan" name="xAOCPx/android_hardware_ti_wlan" remote="aocp" revision="jellybean" />
