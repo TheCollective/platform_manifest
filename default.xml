@@ -4,7 +4,7 @@
   <remote name="aosp"
           fetch="https://android.googlesource.com/" />
 
-  <remote name="github"
+  <remote name="aokp"
           fetch=".."
           review="gerrit.aokp.co" />
 
@@ -12,7 +12,7 @@
           fetch=".."
           review="review.cyanogenmod.com" />
           
-  <remote name="github"
+  <remote name="aocp"
           fetch="https://github.com/xAOCPx/"
           review="gerrit.aokp.co" />
 
