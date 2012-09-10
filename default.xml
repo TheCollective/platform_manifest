@@ -43,19 +43,19 @@
   <project path="device/samsung/crespo" name="aocp_device_samsung_crespo" />
   <project path="device/samsung/d2-common" name="android_device_samsung_d2-common" />
   <project path="device/samsung/d2att" name="android_device_samsung_d2att" />
-  <project path="device/samsung/galaxys2-common" name="AOKP/android_device_samsung_galaxys2-common" remote="aokp" revision="jb" />
+  <project path="device/samsung/galaxys2-common" name="AOKP/android_device_samsung_galaxys2-common" />
   <project path="device/samsung/infuse4g" name="android_device_samsung_infuse4g" />
   <project path="device/samsung/maguro" name="aocp_device_samsung_maguro" />
   <project path="device/samsung/msm8660-common" name="aocp_device_samsung_msm8660-common" />
   <project path="device/samsung/msm8960-common" name="android_device_samsung_msm8960-common" />
-  <project path="device/samsung/n7000" name="AOKP/android_device_samsung_n7000" remote="aokp" revision="jb" />
+  <project path="device/samsung/n7000" name="AOKP/android_device_samsung_n7000" />
   <project path="device/samsung/quincy-common" name="aocp_device_samsung_quincy-common" />
   <project path="device/samsung/quincyatt" name="aocp_device_samsung_quincyatt" />
   <project path="device/samsung/toro" name="aocp_device_samsung_toro" />
   <project path="device/samsung/tuna" name="aocp_device_samsung_tuna" />
   <project path="device/ti/panda" name="device_ti_panda" />
   <project path="docs/source.android.com" name="platform_docs_source.android.com" />
-  <project path="external/aac" name="platform/external/aac" remote="aosp" revision="refs/tags/android-4.1.1_r1_" />
+  <project path="external/aac" name="platform/external/aac" />
   <project path="external/android-mock" name="platform/external/android-mock" />
   <project path="external/antlr" name="platform/external/antlr" />
   <project path="external/apache-harmony" name="platform/external/apache-harmony" />
@@ -128,7 +128,7 @@
   <project path="external/libgsm" name="platform/external/libgsm" />
   <project path="external/liblzf" name="platform/external/liblzf" />
   <project path="external/libmtp" name="platform/external/libmtp" />
-  <project path="external/libncurses" name="android_external_libncurses" remote="cm" revision="jellybean" />
+  <project path="external/libncurses" name="android_external_libncurses" />
   <project path="external/libnfc-nxp" name="platform/external/libnfc-nxp" />
   <project path="external/libnl-headers" name="platform/external/libnl-headers" />
   <project path="external/libpcap" name="platform/external/libpcap" />
@@ -163,7 +163,7 @@
   <project path="external/openfst" name="platform/external/openfst" />
   <project path="external/openssh" name="platform/external/openssh" />
   <project path="external/openssl" name="platform/external/openssl" />
-  <project path="external/openvpn" name="android_external_openvpn" remote="cm" revision="jellybean" />
+  <project path="external/openvpn" name="android_external_openvpn" />
   <project path="external/oprofile" name="platform/external/oprofile" />
   <project path="external/ping" name="platform/external/ping" />
   <project path="external/ping6" name="platform/external/ping6" />
@@ -201,8 +201,8 @@
   <project path="external/wpa_supplicant_6" name="external_wpa_supplicant_6" />
   <project path="external/wpa_supplicant_8" name="external_wpa_supplicant_8" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
-  <project path="external/yaffs2" name="android_external_yaffs2" remote="cm" revision="jellybean" />
-  <project path="external/zlib" name="android_external_zlib" remote="cm" revision="jellybean" />
+  <project path="external/yaffs2" name="android_external_yaffs2" />
+  <project path="external/zlib" name="android_external_zlib" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="frameworks_av" />
   <project path="frameworks/base" name="frameworks_base" />
@@ -234,7 +234,7 @@
   <project path="hardware/qcom/gps" name="hardware_qcom_gps" />
   <project path="hardware/qcom/media" name="android_hardware_qcom_media" />
   <project path="hardware/ril" name="android_hardware_ril" />
-  <project path="hardware/samsung" name="android_hardware_samsung" remote="cm" revision="jellybean" />
+  <project path="hardware/samsung" name="android_hardware_samsung" />
   <project path="hardware/ti/omap3" name="platform_hardware_ti_omap3" />
   <project path="hardware/ti/omap4xxx" name="platform_hardware_ti_omap4xxx" />
   <project path="hardware/ti/wlan" name="android_hardware_ti_wlan" />
