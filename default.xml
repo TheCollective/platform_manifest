@@ -20,41 +20,41 @@
            remote="aosp"
            sync-j="4" />
 
-  <project path="build" name="android_build">
+  <project path="build" name="xAOCPx/android_build" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="abi/cpp" name="platform_abi_cpp" />
-  <project path="bionic" name="bionic" />
-  <project path="bootable/bootloader/legacy" name="android_bootable_bootloader_legacy" />
-  <project path="bootable/diskinstaller" name="android_bootable_diskinstaller" />
-  <project path="bootable/recovery" name="android_bootable_recovery" />
-  <project path="cts" name="platform_cts" />
-  <project path="dalvik" name="platform_dalvik" />
-  <project path="development" name="platform_development" />
-  <project path="device/samsung/aries-common" name="aocp_device_samsung_aries-common" />
-  <project path="device/common" name="device_common" />
-  <project path="device/generic/armv7-a-neon" name="device_generic_armv7-a-neon" />
-  <project path="device/generic/armv7-a" name="device_generic_armv7-a" />
-  <project path="device/generic/goldfish" name="device_generic_goldfish" />
-  <project path="device/google/accessory/arduino" name="device_google_accessory_arduino" />
-  <project path="device/google/accessory/demokit" name="device_google_accessory_demokit" />
-  <project path="device/sample" name="device_sample" />
-  <project path="device/samsung/captivatemtd" name="aocp_device_samsung_captivatemtd" />
-  <project path="device/samsung/crespo" name="aocp_device_samsung_crespo" />
-  <project path="device/samsung/d2-common" name="android_device_samsung_d2-common" />
-  <project path="device/samsung/d2att" name="android_device_samsung_d2att" />
+  <project path="abi/cpp" name="xAOCPx/platform_abi_cpp" />
+  <project path="bionic" name="xAOCPx/bionic" />
+  <project path="bootable/bootloader/legacy" name="xAOCPx/android_bootable_bootloader_legacy" />
+  <project path="bootable/diskinstaller" name="xAOCPx/android_bootable_diskinstaller" />
+  <project path="bootable/recovery" name="xAOCPx/android_bootable_recovery" />
+  <project path="cts" name="xAOCPx/platform_cts" />
+  <project path="dalvik" name="xAOCPx/platform_dalvik" />
+  <project path="development" name="xAOCPx/platform_development" />
+  <project path="device/samsung/aries-common" name="xAOCPx/aocp_device_samsung_aries-common" />
+  <project path="device/common" name="xAOCPx/device_common" />
+  <project path="device/generic/armv7-a-neon" name="xAOCPx/device_generic_armv7-a-neon" />
+  <project path="device/generic/armv7-a" name="xAOCPx/device_generic_armv7-a" />
+  <project path="device/generic/goldfish" name="xAOCPx/device_generic_goldfish" />
+  <project path="device/google/accessory/arduino" name="xAOCPx/device_google_accessory_arduino" />
+  <project path="device/google/accessory/demokit" name="xAOCPx/device_google_accessory_demokit" />
+  <project path="device/sample" name="xAOCPx/device_sample" />
+  <project path="device/samsung/captivatemtd" name="xAOCPx/aocp_device_samsung_captivatemtd" />
+  <project path="device/samsung/crespo" name="xAOCPx/aocp_device_samsung_crespo" />
+  <project path="device/samsung/d2-common" name="xAOCPx/android_device_samsung_d2-common" />
+  <project path="device/samsung/d2att" name="xAOCPx/android_device_samsung_d2att" />
   <project path="device/samsung/galaxys2-common" name="AOKP/android_device_samsung_galaxys2-common" />
-  <project path="device/samsung/infuse4g" name="android_device_samsung_infuse4g" />
-  <project path="device/samsung/maguro" name="aocp_device_samsung_maguro" />
-  <project path="device/samsung/msm8660-common" name="aocp_device_samsung_msm8660-common" />
-  <project path="device/samsung/msm8960-common" name="android_device_samsung_msm8960-common" />
+  <project path="device/samsung/infuse4g" name="xAOCPx/android_device_samsung_infuse4g" />
+  <project path="device/samsung/maguro" name="xAOCPx/aocp_device_samsung_maguro" />
+  <project path="device/samsung/msm8660-common" name="xAOCPx/aocp_device_samsung_msm8660-common" />
+  <project path="device/samsung/msm8960-common" name="xAOCPx/android_device_samsung_msm8960-common" />
   <project path="device/samsung/n7000" name="AOKP/android_device_samsung_n7000" />
-  <project path="device/samsung/quincy-common" name="aocp_device_samsung_quincy-common" />
-  <project path="device/samsung/quincyatt" name="aocp_device_samsung_quincyatt" />
-  <project path="device/samsung/toro" name="aocp_device_samsung_toro" />
-  <project path="device/samsung/tuna" name="aocp_device_samsung_tuna" />
-  <project path="device/ti/panda" name="device_ti_panda" />
-  <project path="docs/source.android.com" name="platform_docs_source.android.com" />
+  <project path="device/samsung/quincy-common" name="xAOCPx/aocp_device_samsung_quincy-common" />
+  <project path="device/samsung/quincyatt" name="xAOCPx/aocp_device_samsung_quincyatt" />
+  <project path="device/samsung/toro" name="xAOCPx/aocp_device_samsung_toro" />
+  <project path="device/samsung/tuna" name="xAOCPx/aocp_device_samsung_tuna" />
+  <project path="device/ti/panda" name="xAOCPx/device_ti_panda" />
+  <project path="docs/source.android.com" name="xAOCPx/platform_docs_source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
   <project path="external/android-mock" name="platform/external/android-mock" />
   <project path="external/antlr" name="platform/external/antlr" />
@@ -65,7 +65,7 @@
   <project path="external/bash" name="android_external_bash" />
   <project path="external/bison" name="platform/external/bison" />
   <project path="external/blktrace" name="platform/external/blktrace" />
-  <project path="external/bluetooth/bluez" name="external_bluetooth_bluez" />
+  <project path="external/bluetooth/bluez" name="xAOCPx/external_bluetooth_bluez" />
   <project path="external/bluetooth/glib" name="platform/external/bluetooth/glib" />
   <project path="external/bluetooth/hcidump" name="platform/external/bluetooth/hcidump" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" />
@@ -105,7 +105,7 @@
   <project path="external/google-diff-match-patch" name="platform/external/google-diff-match-patch" />
   <project path="external/grub" name="platform/external/grub" />
   <project path="external/gtest" name="platform/external/gtest" />
-  <project path="external/guava" name="external_guava" />
+  <project path="external/guava" name="xAOCPx/external_guava" />
   <project path="external/hamcrest" name="platform/external/hamcrest" />
   <project path="external/harfbuzz" name="platform/external/harfbuzz" />
   <project path="external/hyphenation" name="platform/external/hyphenation" />
@@ -119,7 +119,7 @@
   <project path="external/jhead" name="platform/external/jhead" />
   <project path="external/jmdns" name="platform/external/jmdns" />
   <project path="external/jmonkeyengine" name="platform/external/jmonkeyengine" />
-  <project path="external/jpeg" name="external_jpeg" />
+  <project path="external/jpeg" name="xAOCPx/external_jpeg" />
   <project path="external/jsilver" name="platform/external/jsilver" />
   <project path="external/jsr305" name="platform/external/jsr305" />
   <project path="external/junit" name="platform/external/junit" />
@@ -170,14 +170,14 @@
   <project path="external/ppp" name="platform/external/ppp" />
   <project path="external/proguard" name="platform/external/proguard" />
   <project path="external/protobuf" name="platform/external/protobuf" />
-  <project path="external/qemu" name="external_qemu" />
+  <project path="external/qemu" name="xAOCPx/external_qemu" />
   <project path="external/qemu-pc-bios" name="platform/external/qemu-pc-bios" />
   <project path="external/quake" name="platform/external/quake" />
   <project path="external/regex-re2" name="platform/external/regex-re2" />
   <project path="external/replicaisland" name="platform/external/replicaisland" />
   <project path="external/safe-iop" name="platform/external/safe-iop" />
   <project path="external/sepolicy" name="platform/external/sepolicy" />
-  <project path="external/skia" name="external_skia" />
+  <project path="external/skia" name="xAOCPx/external_skia" />
   <project path="external/smali" name="platform/external/smali" />
   <project path="external/sonivox" name="platform/external/sonivox" />
   <project path="external/speex" name="platform/external/speex" />
@@ -195,101 +195,101 @@
   <project path="external/tremolo" name="platform/external/tremolo" />
   <project path="external/v8" name="platform/external/v8" />
   <project path="external/valgrind" name="platform/external/valgrind" />
-  <project path="external/webkit" name="external_webkit" />
+  <project path="external/webkit" name="xAOCPx/external_webkit" />
   <project path="external/webp" name="platform/external/webp" />
   <project path="external/webrtc" name="platform/external/webrtc" />
-  <project path="external/wpa_supplicant_6" name="external_wpa_supplicant_6" />
-  <project path="external/wpa_supplicant_8" name="external_wpa_supplicant_8" />
+  <project path="external/wpa_supplicant_6" name="xAOCPx/external_wpa_supplicant_6" />
+  <project path="external/wpa_supplicant_8" name="xAOCPx/external_wpa_supplicant_8" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/yaffs2" name="android_external_yaffs2" />
   <project path="external/zlib" name="android_external_zlib" />
   <project path="external/zxing" name="platform/external/zxing" />
-  <project path="frameworks/av" name="frameworks_av" />
-  <project path="frameworks/base" name="frameworks_base" />
-  <project path="frameworks/compile/libbcc" name="frameworks_compile_libbcc" />
-  <project path="frameworks/compile/linkloader" name="frameworks_compile_linkloader" />
-  <project path="frameworks/compile/mclinker" name="frameworks_compile_mclinker" />
-  <project path="frameworks/compile/slang" name="frameworks_compile_slang" />
-  <project path="frameworks/ex" name="frameworks_ex" />
-  <project path="frameworks/mff" name="frameworks_mff" />
-  <project path="frameworks/ml" name="frameworks_ml" />
-  <project path="frameworks/native" name="frameworks_native" />
-  <project path="frameworks/opt/calendar" name="frameworks_opt_calendar" />
-  <project path="frameworks/opt/emoji" name="frameworks_opt_emoji" />
-  <project path="frameworks/opt/inputmethodcommon" name="frameworks_opt_inputmethodcommon" />
-  <project path="frameworks/opt/mailcommon" name="frameworks_opt_mailcommon" />
-  <project path="frameworks/opt/vcard" name="frameworks_opt_vcard" />
-  <project path="frameworks/rs" name="frameworks_rs" />
-  <project path="frameworks/support" name="frameworks_support" />
-  <project path="frameworks/testing" name="frameworks_testing" />
-  <project path="frameworks/wilhelm" name="frameworks_wilhelm" />
-  <project path="gdk" name="platform_gdk" />
-  <project path="hardware/broadcom/wlan" name="android_hardware_broadcom_wlan" />
-  <project path="hardware/invensense" name="android_hardware_invensense" />
-  <project path="hardware/libhardware" name="android_hardware_libhardware" />
-  <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" />
-  <project path="hardware/msm7k" name="android_hardware_msm7k" />
-  <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" />
-  <project path="hardware/qcom/display" name="android_hardware_qcom_display" />
-  <project path="hardware/qcom/gps" name="hardware_qcom_gps" />
-  <project path="hardware/qcom/media" name="android_hardware_qcom_media" />
-  <project path="hardware/ril" name="android_hardware_ril" />
+  <project path="frameworks/av" name="xAOCPx/frameworks_av" />
+  <project path="frameworks/base" name="xAOCPx/frameworks_base" />
+  <project path="frameworks/compile/libbcc" name="xAOCPx/frameworks_compile_libbcc" />
+  <project path="frameworks/compile/linkloader" name="xAOCPx/frameworks_compile_linkloader" />
+  <project path="frameworks/compile/mclinker" name="xAOCPx/frameworks_compile_mclinker" />
+  <project path="frameworks/compile/slang" name="xAOCPx/frameworks_compile_slang" />
+  <project path="frameworks/ex" name="xAOCPx/frameworks_ex" />
+  <project path="frameworks/mff" name="xAOCPx/frameworks_mff" />
+  <project path="frameworks/ml" name="xAOCPx/frameworks_ml" />
+  <project path="frameworks/native" name="xAOCPx/frameworks_native" />
+  <project path="frameworks/opt/calendar" name="xAOCPx/frameworks_opt_calendar" />
+  <project path="frameworks/opt/emoji" name="xAOCPx/frameworks_opt_emoji" />
+  <project path="frameworks/opt/inputmethodcommon" name="xAOCPx/frameworks_opt_inputmethodcommon" />
+  <project path="frameworks/opt/mailcommon" name="xAOCPx/frameworks_opt_mailcommon" />
+  <project path="frameworks/opt/vcard" name="xAOCPx/frameworks_opt_vcard" />
+  <project path="frameworks/rs" name="xAOCPx/frameworks_rs" />
+  <project path="frameworks/support" name="xAOCPx/frameworks_support" />
+  <project path="frameworks/testing" name="xAOCPx/frameworks_testing" />
+  <project path="frameworks/wilhelm" name="xAOCPx/frameworks_wilhelm" />
+  <project path="gdk" name="xAOCPx/platform_gdk" />
+  <project path="hardware/broadcom/wlan" name="xAOCPx/android_hardware_broadcom_wlan" />
+  <project path="hardware/invensense" name="xAOCPx/android_hardware_invensense" />
+  <project path="hardware/libhardware" name="xAOCPx/android_hardware_libhardware" />
+  <project path="hardware/libhardware_legacy" name="xAOCPx/android_hardware_libhardware_legacy" />
+  <project path="hardware/msm7k" name="xAOCPx/android_hardware_msm7k" />
+  <project path="hardware/qcom/audio" name="xAOCPx/android_hardware_qcom_audio" />
+  <project path="hardware/qcom/display" name="xAOCPx/android_hardware_qcom_display" />
+  <project path="hardware/qcom/gps" name="xAOCPx/hardware_qcom_gps" />
+  <project path="hardware/qcom/media" name="xAOCPx/android_hardware_qcom_media" />
+  <project path="hardware/ril" name="xAOCPx/android_hardware_ril" />
   <project path="hardware/samsung" name="android_hardware_samsung" />
-  <project path="hardware/ti/omap3" name="platform_hardware_ti_omap3" />
-  <project path="hardware/ti/omap4xxx" name="platform_hardware_ti_omap4xxx" />
-  <project path="hardware/ti/wlan" name="android_hardware_ti_wlan" />
-  <project path="hardware/ti/wpan" name="android_hardware_ti_wpan" />
+  <!--<project path="hardware/ti/omap3" name="xAOCPx/platform_hardware_ti_omap3" />-->
+  <project path="hardware/ti/omap4xxx" name="xAOCPx/platform_hardware_ti_omap4xxx" />
+  <project path="hardware/ti/wlan" name="xAOCPx/android_hardware_ti_wlan" />
+  <project path="hardware/ti/wpan" name="xAOCPx/android_hardware_ti_wpan" />
   <project path="libcore" name="platform/libcore" />
   <project path="libnativehelper" name="platform/libnativehelper" />
-  <project path="kernel/samsung/msm8660-common" name="android_kernel_samsung_msm8660-common" />
-  <project path="kernel/samsung/d2" name="android_kernel_samsung_d2" />
-  <project path="kernel/samsung/dempsey" name="android_kernel_samsung_dempsey" />
-  <project path="kernel/samsung/aries" name="android_kernel_samsung_aries" />
+  <project path="kernel/samsung/msm8660-common" name="xAOCPx/android_kernel_samsung_msm8660-common" />
+  <project path="kernel/samsung/d2" name="xAOCPx/android_kernel_samsung_d2" />
+  <project path="kernel/samsung/dempsey" name="xAOCPx/android_kernel_samsung_dempsey" />
+  <project path="kernel/samsung/aries" name="xAOCPx/android_kernel_samsung_aries" />
   <project path="ndk" name="platform/ndk" />
-  <project path="packages/apps/AoCP" name="packages_apps_AoCP" />
-  <project path="packages/apps/Aspire" name="packages_apps_Aspire" />
+  <project path="packages/apps/AoCP" name="xAOCPx/packages_apps_AoCP" />
+  <project path="packages/apps/Aspire" name="xAOCPx/packages_apps_Aspire" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
-  <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" />
-  <project path="packages/apps/Browser" name="packages_apps_Browser" />
-  <project path="packages/apps/Calculator" name="packages_apps_Calculator" />
-  <project path="packages/apps/Calendar" name="packages_apps_Calendar" />
-  <project path="packages/apps/Camera" name="packages_apps_Camera" />
-  <project path="packages/apps/CellBroadcastReceiver" name="packages_apps_CellBroadcastReceiver" />
-  <project path="packages/apps/CertInstaller" name="packages_apps_Certinstaller" />
-  <project path="packages/apps/Contacts" name="packages_apps_Contacts" />
-  <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" />
-  <project path="packages/apps/Email" name="packages_apps_Email" />
-  <project path="packages/apps/Exchange" name="packages_apps_Exchange" />
-  <project path="packages/apps/Gallery" name="packages_apps_Gallery" />
-  <project path="packages/apps/Gallery2" name="packages_apps_Gallery2" />
-  <project path="packages/apps/HTMLViewer" name="packages_apps_HTMLViewer" />
-  <project path="packages/apps/KeyChain" name="packages_apps_KeyChain" />
-  <project path="packages/apps/LegacyCamera" name="packages_apps_LegacyCamera" />
-  <project path="packages/apps/Mms" name="aocp_packages_apps_Mms" />
-  <project path="packages/apps/Music" name="packages_apps_Music" />
-  <project path="packages/apps/MusicFX" name="packages_apps_MusicFX" />
-  <project path="packages/apps/Nfc" name="packages_apps_Nfc" />
-  <project path="packages/apps/PackageInstaller" name="packages_apps_PackageInstaller" />
-  <project path="packages/apps/Phone" name="packages_apps_Phone" />
+  <project path="packages/apps/Bluetooth" name="xAOCPx/packages_apps_Bluetooth" />
+  <project path="packages/apps/Browser" name="xAOCPx/packages_apps_Browser" />
+  <project path="packages/apps/Calculator" name="xAOCPx/packages_apps_Calculator" />
+  <project path="packages/apps/Calendar" name="xAOCPx/packages_apps_Calendar" />
+  <project path="packages/apps/Camera" name="xAOCPx/packages_apps_Camera" />
+  <project path="packages/apps/CellBroadcastReceiver" name="xAOCPx/packages_apps_CellBroadcastReceiver" />
+  <project path="packages/apps/CertInstaller" name="xAOCPx/packages_apps_Certinstaller" />
+  <project path="packages/apps/Contacts" name="xAOCPx/packages_apps_Contacts" />
+  <project path="packages/apps/DeskClock" name="xAOCPx/packages_apps_DeskClock" />
+  <project path="packages/apps/Email" name="xAOCPx/packages_apps_Email" />
+  <project path="packages/apps/Exchange" name="xAOCPx/packages_apps_Exchange" />
+  <project path="packages/apps/Gallery" name="xAOCPx/packages_apps_Gallery" />
+  <project path="packages/apps/Gallery2" name="xAOCPx/packages_apps_Gallery2" />
+  <project path="packages/apps/HTMLViewer" name="xAOCPx/packages_apps_HTMLViewer" />
+  <project path="packages/apps/KeyChain" name="xAOCPx/packages_apps_KeyChain" />
+  <project path="packages/apps/LegacyCamera" name="xAOCPx/packages_apps_LegacyCamera" />
+  <project path="packages/apps/Mms" name="xAOCPx/aocp_packages_apps_Mms" />
+  <project path="packages/apps/Music" name="xAOCPx/packages_apps_Music" />
+  <project path="packages/apps/MusicFX" name="xAOCPx/packages_apps_MusicFX" />
+  <project path="packages/apps/Nfc" name="xAOCPx/packages_apps_Nfc" />
+  <project path="packages/apps/PackageInstaller" name="xAOCPx/packages_apps_PackageInstaller" />
+  <project path="packages/apps/Phone" name="xAOCPx/packages_apps_Phone" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
-  <project path="packages/apps/Settings" name="packages_apps_Settings" />
-  <project path="packages/apps/SoundRecorder" name="packages_apps_SoundRecorder" />
+  <project path="packages/apps/Settings" name="xAOCPx/packages_apps_Settings" />
+  <project path="packages/apps/SoundRecorder" name="xAOCPx/packages_apps_SoundRecorder" />
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" />
-  <project path="packages/apps/Stk" name="packages_apps_Stk" />
+  <project path="packages/apps/Stk" name="xAOCPx/packages_apps_Stk" />
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" />
   <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" />
   <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" />
   <project path="packages/experimental" name="platform/packages/experimental" />
-  <project path="packages/inputmethods/LatinIME" name="packages_input_LatinIME" />
+  <project path="packages/inputmethods/LatinIME" name="xAOCPx/packages_input_LatinIME" />
   <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" />
   <project path="packages/inputmethods/PinyinIME" name="platform/packages/inputmethods/PinyinIME" />
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" />
-  <project path="packages/providers/ContactsProvider" name="packages_providers_ContactsProvider" />
+  <project path="packages/providers/ContactsProvider" name="xAOCPx/packages_providers_ContactsProvider" />
   <project path="packages/providers/DownloadProvider" name="platform/packages/providers/DownloadProvider" />
   <project path="packages/providers/DrmProvider" name="platform/packages/providers/DrmProvider" />
-  <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" />
+  <project path="packages/providers/MediaProvider" name="xAOCPx/packages_providers_MediaProvider" />
   <project path="packages/providers/PartnerBookmarksProvider" name="platform/packages/providers/PartnerBookmarksProvider" />
   <project path="packages/providers/TelephonyProvider" name="platform/packages/providers/TelephonyProvider" />
   <project path="packages/providers/UserDictionaryProvider" name="platform/packages/providers/UserDictionaryProvider" />
@@ -302,7 +302,7 @@
   <project path="packages/wallpapers/NoiseField" name="platform/packages/wallpapers/NoiseField" />
   <project path="packages/wallpapers/PhaseBeam" name="platform/packages/wallpapers/PhaseBeam" />
   <project path="pdk" name="platform/pdk" />
-  <project path="prebuilt" name="prebuilt" />
+  <project path="prebuilt" name="xAOCPx/prebuilt" />
   <project path="prebuilts/eclipse" name="platform/prebuilts/eclipse" />
   <project path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" />
   <project path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" />
@@ -324,26 +324,26 @@
   <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" />
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" />
-  <project path="sdk" name="android_sdk" />
-  <project path="system/bluetooth" name="system_bluetooth" />
-  <project path="system/core" name="system_core" />
-  <project path="system/extras" name="system_extras" />
+  <project path="sdk" name="xAOCPx/android_sdk" />
+  <project path="system/bluetooth" name="xAOCPx/system_bluetooth" />
+  <project path="system/core" name="xAOCPx/system_core" />
+  <project path="system/extras" name="xAOCPx/system_extras" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="android_system_netd" />
   <project path="system/security" name="platform/system/security" />
   <project path="system/vold" name="android_system_vold" />
   
-  <project path="buildscripts" name="aocp_buildscripts">
+  <project path="buildscripts" name="xAOCPx/aocp_buildscripts">
       <copyfile src="samsung/build.sh" dest="build.sh" />
   </project>
 
-  <project path="vendor/aocp" name="vendor_aocp" />
-  <project path="vendor/aocp/bot" name="pseudo_buildbot" />
-  <project path="vendor/samsung" name="vendor_samsung" />
-  <project path="vendor/samsung/quincyatt" name="vendor_proprietary_quincyatt" />
+  <project path="vendor/aocp" name="xAOCPx/vendor_aocp" />
+  <project path="vendor/aocp/bot" name="xAOCPx/pseudo_buildbot" />
+  <project path="vendor/samsung" name="xAOCPx/vendor_samsung" />
+  <project path="vendor/samsung/quincyatt" name="xAOCPx/vendor_proprietary_quincyatt" />
   
   <project path="system/su" name="android_system_su" />
-  <project path="packages/wallpapers/AOCPWallpapers" name="packages_wallpapers_AOCPWallpapers" />
+  <project path="packages/wallpapers/AOCPWallpapers" name="xAOCPx/packages_wallpapers_AOCPWallpapers" />
 
   <project path="platform_manifest" name="xAOCPx/platform_manifest" />
 
