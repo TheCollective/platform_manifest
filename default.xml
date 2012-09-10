@@ -62,7 +62,7 @@
   <project path="external/apache-http" name="platform/external/apache-http" />
   <project path="external/apache-xml" name="platform/external/apache-xml" />
   <project path="external/astl" name="platform/external/astl" />
-  <project path="external/bash" name="android_external_bash" remote="cm" revision="jellybean" />
+  <project path="external/bash" name="android_external_bash" />
   <project path="external/bison" name="platform/external/bison" />
   <project path="external/blktrace" name="platform/external/blktrace" />
   <project path="external/bluetooth/bluez" name="external_bluetooth_bluez" />
@@ -70,7 +70,7 @@
   <project path="external/bluetooth/hcidump" name="platform/external/bluetooth/hcidump" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" />
   <project path="external/bsdiff" name="platform/external/bsdiff" />
-  <project path="external/busybox" name="android_external_busybox" remote="cm" revision="jellybean" />
+  <project path="external/busybox" name="android_external_busybox" />
   <project path="external/bzip2" name="platform/external/bzip2" />
   <project path="external/checkpolicy" name="platform/external/checkpolicy" />
   <project path="external/chromium" name="platform/external/chromium" />
@@ -146,7 +146,7 @@
   <project path="external/littlemock" name="platform/external/littlemock" />
   <project path="external/llvm" name="platform/external/llvm" />
   <project path="external/lohit-fonts" name="platform/external/lohit-fonts" />
-  <project path="external/lzo" name="android_external_lzo" remote="cm" revision="jellybean" />
+  <project path="external/lzo" name="android_external_lzo" />
   <project path="external/markdown" name="platform/external/markdown" />
   <project path="external/mdnsresponder" name="platform/external/mdnsresponder" />
   <project path="external/mesa3d" name="platform/external/mesa3d" />
