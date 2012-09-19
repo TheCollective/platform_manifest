@@ -288,14 +288,14 @@
   <project path="packages/providers/PartnerBookmarksProvider" name="xAOCPx/packages_providers_PartnerBookmarksProvider" />
   <project path="packages/providers/TelephonyProvider" name="xAOCPx/packages_providers_TelephonyProvider" />
   <project path="packages/providers/UserDictionaryProvider" name="xAOCPx/packages_providers_UserDictionaryProvider" />
-  <project path="packages/wallpapers/Basic" name="xAOCPx/package_wallpapers_Basic" />
-  <project path="packages/wallpapers/Galaxy4" name="xAOCPx/package_wallpapers_Galaxy4" />
-  <project path="packages/wallpapers/HoloSpiral" name="xAOCPx/package_wallpapers_HoloSpiral" />
-  <project path="packages/wallpapers/LivePicker" name="xAOCPx/package_wallpapers_LivePicker" />
-  <project path="packages/wallpapers/MagicSmoke" name="xAOCPx/package_wallpapers_MagicSmoke" />
-  <project path="packages/wallpapers/MusicVisualization" name="xAOCPx/package_wallpapers_MusicVisualization" />
-  <project path="packages/wallpapers/NoiseField" name="xAOCPx/package_wallpapers_NoiseField" />
-  <project path="packages/wallpapers/PhaseBeam" name="xAOCPx/package_wallpapers_PhaseBeam" />
+  <project path="packages/wallpapers/Basic" name="xAOCPx/packages_wallpapers_Basic" />
+  <project path="packages/wallpapers/Galaxy4" name="xAOCPx/packages_wallpapers_Galaxy4" />
+  <project path="packages/wallpapers/HoloSpiral" name="xAOCPx/packages_wallpapers_HoloSpiral" />
+  <project path="packages/wallpapers/LivePicker" name="xAOCPx/packages_wallpapers_LivePicker" />
+  <project path="packages/wallpapers/MagicSmoke" name="xAOCPx/packages_wallpapers_MagicSmoke" />
+  <project path="packages/wallpapers/MusicVisualization" name="xAOCPx/packages_wallpapers_MusicVisualization" />
+  <project path="packages/wallpapers/NoiseField" name="xAOCPx/packages_wallpapers_NoiseField" />
+  <project path="packages/wallpapers/PhaseBeam" name="xAOCPx/packages_wallpapers_PhaseBeam" />
   <project path="pdk" name="xAOCPx/platform_pdk" />
   <project path="prebuilt" name="xAOCPx/prebuilt" />
   <project path="prebuilts/eclipse" name="xAOCPx/platform_prebuilts_eclipse" />
