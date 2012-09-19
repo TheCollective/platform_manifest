@@ -3,9 +3,12 @@
 
   <remote name="aosp"
           fetch="https://android.googlesource.com/" />
-          
+
   <remote name="github"
-          fetch="https://github.com/"
+          fetch=".." />
+          
+  <remote name="private"
+          fetch="ssh://git@github.com" />
 
   <default revision="refs/heads/jellybean"
            remote="github"
@@ -14,6 +17,9 @@
   <project path="build" name="xAOCPx/android_build">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
+  
+  <project path="platform_manifest" name="xAOCPx/platform_manifest" />
+  
   <project path="abi/cpp" name="xAOCPx/platform_abi_cpp" />
   <project path="bionic" name="xAOCPx/bionic" />
   <project path="bootable/bootloader/legacy" name="xAOCPx/android_bootable_bootloader_legacy" />
@@ -333,7 +339,5 @@
   
   <project path="system/su" name="xAOCPx/android_system_su" />
   <project path="packages/wallpapers/AOCPWallpapers" name="xAOCPx/packages_wallpapers_AOCPWallpapers" />
-
-  <project path="platform_manifest" name="xAOCPx/platform_manifest" />
 
 </manifest>
