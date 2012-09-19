@@ -313,7 +313,7 @@
   <project path="prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.4.3" name="xAOCPx/prebuilts_gcc_linux-x86_mips_mipsel-linux-android-4.4.3" />
   <project path="prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" name="xAOCPx/prebuilts_gcc_linux-x86_mips_mipsel-linux-android-4.6" />
   <project path="prebuilts/gcc/linux-x86/x86/i686-android-linux-4.4.3" name="xAOCPx/prebuilts_gcc_linux-x86_x86_i686-android-linux-4.4.3" />
-  <project path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" name="xAOCPx/prebuilts_gcc_linux-x86_x86_i686-linux-android-4.6" />
+  <project path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" name="xAOCPx/prebuilts_gcc_linux-x86_x86_i686-android-linux-4.6" />
   <project path="prebuilts/misc" name="xAOCPx/prebuilts_misc" />
   <project path="prebuilts/ndk" name="xAOCPx/prebuilts_ndk" />
   <project path="prebuilts/qemu-kernel" name="xAOCPx/prebuilts_qemu-kernel" />
