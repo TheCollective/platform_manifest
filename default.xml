@@ -141,7 +141,7 @@
   <project path="external/littlemock" name="xAOCPx/platform_external_littlemock" />
   <project path="external/llvm" name="xAOCPx/platform_external_llvm" />
   <project path="external/lohit-fonts" name="xAOCPx/platform_external_lohit-fonts" />
-  <project path="external/lzo" name="android_external_lzo" />
+  <project path="external/lzo" name="xAOCPx/platform_external_lzo" />
   <project path="external/markdown" name="xAOCPx/platform_external_markdown" />
   <project path="external/mdnsresponder" name="xAOCPx/platform_external_mdnsresponder" />
   <project path="external/mesa3d" name="xAOCPx/platform_external_mesa3d" />
@@ -158,7 +158,7 @@
   <project path="external/openfst" name="xAOCPx/platform_external_openfst" />
   <project path="external/openssh" name="xAOCPx/platform_external_openssh" />
   <project path="external/openssl" name="xAOCPx/platform_external_openssl" />
-  <project path="external/openvpn" name="android_external_openvpn" />
+  <project path="external/openvpn" name="xAOCPx/platform_external_openvpn" />
   <project path="external/oprofile" name="xAOCPx/platform_external_oprofile" />
   <project path="external/ping" name="xAOCPx/platform_external_ping" />
   <project path="external/ping6" name="xAOCPx/platform_external_ping6" />
