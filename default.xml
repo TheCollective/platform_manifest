@@ -8,6 +8,7 @@
           fetch="ssh://git@github.com" />
 
   <default revision="refs/heads/jellybean"
+           remote="aocp"
            sync-j="4" />
 
   <project path="build" name="xAOCPx/android_build">
