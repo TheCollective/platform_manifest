@@ -57,15 +57,15 @@
   <project path="external/apache-http" name="xAOCPx/platform_external_apache-http" />
   <project path="external/apache-xml" name="xAOCPx/platform_external_apache-xml" />
   <project path="external/astl" name="xAOCPx/platform_external_astl" />
-  <project path="external/bash" name="android_external_bash" />
+  <project path="external/bash" name="xAOCPx/platform_external_bash" />
   <project path="external/bison" name="xAOCPx/platform_external_bison" />
   <project path="external/blktrace" name="xAOCPx/platform_external_blktrace" />
   <project path="external/bluetooth/bluez" name="xAOCPx/external_bluetooth_bluez" />
-  <project path="external/bluetooth/glib" name="xAOCPx/platform_external_bluetooth/glib" />
-  <project path="external/bluetooth/hcidump" name="xAOCPx/platform_external_bluetooth/hcidump" />
+  <project path="external/bluetooth/glib" name="xAOCPx/platform_external_bluetooth_glib" />
+  <project path="external/bluetooth/hcidump" name="xAOCPx/platform_external_bluetooth_hcidump" />
   <project path="external/bouncycastle" name="xAOCPx/platform_external_bouncycastle" />
   <project path="external/bsdiff" name="xAOCPx/platform_external_bsdiff" />
-  <project path="external/busybox" name="android_external_busybox" />
+  <project path="external/busybox" name="xAOCPx/platform_external_busybox" />
   <project path="external/bzip2" name="xAOCPx/platform_external_bzip2" />
   <project path="external/checkpolicy" name="xAOCPx/platform_external_checkpolicy" />
   <project path="external/chromium" name="xAOCPx/platform_external_chromium" />
@@ -200,7 +200,7 @@
   <project path="external/zlib" name="xAOCPx/platform_external_zlib" />
   <project path="external/zxing" name="xAOCPx/platform_external_zxing" />
   <project path="frameworks/av" name="xAOCPx/frameworks_av" />
-  <project path="frameworks/base" name="xAOCPx/frameworks_base" />
+  <project path="frameworks/base" name="xAOCPx/android_frameworks_base" />
   <project path="frameworks/compile/libbcc" name="xAOCPx/frameworks_compile_libbcc" />
   <project path="frameworks/compile/linkloader" name="xAOCPx/frameworks_compile_linkloader" />
   <project path="frameworks/compile/mclinker" name="xAOCPx/frameworks_compile_mclinker" />
