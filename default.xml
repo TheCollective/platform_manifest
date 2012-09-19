@@ -5,7 +5,7 @@
           fetch="https://android.googlesource.com/" />
 
   <remote name="github"
-          fetch=".." />
+          fetch="https://github.com/xAOCPx/" />
           
   <remote name="private"
           fetch="ssh://git@github.com" />
