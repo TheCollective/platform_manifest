@@ -4,8 +4,8 @@
   <remote name="aosp"
           fetch="https://android.googlesource.com/" />
           
-  <remote name="private"
-          fetch="ssh://git@github.com" />
+  <remote name="github"
+           fetch=".."
 
   <default revision="refs/heads/jellybean"
            remote="github"
