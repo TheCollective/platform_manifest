@@ -340,4 +340,9 @@
   <project path="system/su" name="xAOCPx/android_system_su" />
   <project path="packages/wallpapers/AOCPWallpapers" name="xAOCPx/packages_wallpapers_AOCPWallpapers" />
 
+  <project path="vendor/tmobile/apps/ThemeChooser" name="xAOCPx/vendor-tmobile-apps-ThemeChooser" />
+  <project path="vendor/tmobile/libs/com.tmobile.themes" name="xAOCPx/vendor_tmobile_libs_com.tmobile.themes" />
+  <project path="vendor/tmobile/providers/ThemeManager" name="xAOCPx/vendor_tmobile_providers_ThemeManager" />
+  <project path="vendor/tmobile/products/themes" name="xAOCPx/vendor_tmobile_products_themes" />
+
 </manifest>
