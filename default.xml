@@ -40,7 +40,7 @@
   <project path="device/samsung/crespo" name="xAOCPx/aocp_device_samsung_crespo" />
   <project path="device/samsung/d2-common" name="xAOCPx/android_device_samsung_d2-common" />
   <project path="device/samsung/d2att" name="xAOCPx/android_device_samsung_d2att" />
-  <project path="device/samsung/infuse4g" name="xAOCPx/aocp_device_samsung_infuse4g" />
+  <project path="device/samsung/infuse4g" name="xAOCPx/android_device_samsung_infuse4g" />
   <project path="device/samsung/maguro" name="xAOCPx/aocp_device_samsung_maguro" />
   <project path="device/samsung/msm8660-common" name="xAOCPx/aocp_device_samsung_msm8660-common" />
   <project path="device/samsung/msm8960-common" name="xAOCPx/android_device_samsung_msm8960-common" />
