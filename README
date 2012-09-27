@@ -1,6 +1,6 @@
 AOCP JELLYBEAN
 
-$ repo init -u https://github.com/xAOCPx/platform_manifest.git -b jellybean
+$ repo init -u https://github.com/TheCollective/platform_manifest.git -b jellybean
 $ repo sync
 
 Or if you have slow internet
