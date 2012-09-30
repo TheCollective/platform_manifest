@@ -287,10 +287,10 @@
   <project path="packages/inputmethods/PinyinIME" name="platform/packages/inputmethods/PinyinIME" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
-  <project path="packages/providers/ContactsProvider" name="TheCollective/packages_providers_ContactsProvider"
+  <project path="packages/providers/ContactsProvider" name="TheCollective/packages_providers_ContactsProvider" />
   <project path="packages/providers/DownloadProvider" name="platform/packages/providers/DownloadProvider" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
   <project path="packages/providers/DrmProvider" name="platform/packages/providers/DrmProvider" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
-  <project path="packages/providers/MediaProvider" name="TheCollective/packages_providers_MediaProvider"
+  <project path="packages/providers/MediaProvider" name="TheCollective/packages_providers_MediaProvider" />
   <project path="packages/providers/PartnerBookmarksProvider" name="platform/packages/providers/PartnerBookmarksProvider" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
   <project path="packages/providers/TelephonyProvider" name="platform/packages/providers/TelephonyProvider" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
   <project path="packages/providers/UserDictionaryProvider" name="platform/packages/providers/UserDictionaryProvider" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
@@ -335,7 +335,7 @@
   <project path="system/vold" name="android_system_vold" remote="cm" revision="jellybean" />
   
   <project path="buildscripts" name="TheCollective/aocp_buildscripts">
-      <copyfile src="samsung/build.sh" dest="build.sh" />
+    <copyfile src="samsung/build.sh" dest="build.sh" />
   </project>
 
   <project path="vendor/aocp" name="TheCollective/vendor_aocp" />
