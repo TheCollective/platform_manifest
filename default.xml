@@ -50,6 +50,7 @@
   <project path="device/samsung/msm8960-common" name="TheCollective/android_device_samsung_msm8960-common" />
   <project path="device/samsung/quincy-common" name="TheCollective/aocp_device_samsung_quincy-common" />
   <project path="device/samsung/quincyatt" name="TheCollective/aocp_device_samsung_quincyatt" />
+  <project path="device/samsung/skyrocket" name="TheCollective/android_device_samsung_skyrocket" />
   <project path="device/samsung/toro" name="TheCollective/aocp_device_samsung_toro" />
   <project path="device/samsung/tuna" name="TheCollective/aocp_device_samsung_tuna" />
   <project path="device/ti/panda" name="TheCollective/device_ti_panda" />
