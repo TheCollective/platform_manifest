@@ -4,13 +4,13 @@
   <remote name="aosp"
           fetch="https://android.googlesource.com/" />
 	  
+  <remote  name="aokp"
+           fetch="https://github.com/"
+           review="gerrit.aokp.co" />
+
   <remote  name="cm"
            fetch="https://github.com/CyanogenMod/"
            review="review.cyanogenmod.com" />
-           
-  <remote  name="aokp"
-           fetch="https://github.com/" 
-           review="gerrit.aokp.co" />
 	  
   <remote name="github"
           fetch=".." />
@@ -50,7 +50,7 @@
   <project path="device/samsung/d2att" name="TheCollective/android_device_samsung_d2att" />
   <project path="device/samsung/infuse4g" name="TheCollective/android_device_samsung_infuse4g" />
   <project path="device/samsung/maguro" name="TheCollective/aocp_device_samsung_maguro" />
-  <project path="device/samsung/msm8660-common" name="android_device_samsung_msm8660-common" remote="cm" revision="jellybean"/>
+  <project path="device/samsung/msm8660-common" name="TheCollective/aocp_device_samsung_msm8660-common" />
   <project path="device/samsung/msm8960-common" name="TheCollective/android_device_samsung_msm8960-common" />
   <project path="device/samsung/quincy-common" name="TheCollective/aocp_device_samsung_quincy-common" />
   <project path="device/samsung/quincyatt" name="TheCollective/aocp_device_samsung_quincyatt" />
@@ -246,7 +246,7 @@
   <project path="libcore" name="platform/libcore" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
   <project path="libnativehelper" name="platform/libnativehelper" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
-  <project path="kernel/samsung/msm8660-common" name="android_kernel_samsung_msm8660-common" remote="cm" revision="jellybean" />
+  <project path="kernel/samsung/msm8660-common" name="TheCollective/android_kernel_samsung_msm8660-common" />
   <project path="kernel/samsung/d2" name="TheCollective/android_kernel_samsung_d2" />
   <project path="kernel/samsung/dempsey" name="TheCollective/android_kernel_samsung_dempsey" />
   <project path="kernel/samsung/aries" name="TheCollective/android_kernel_samsung_aries" />
@@ -257,24 +257,24 @@
   <project path="packages/apps/Browser" name="TheCollective/packages_apps_Browser" />
   <project path="packages/apps/Calculator" name="TheCollective/packages_apps_Calculator" />
   <project path="packages/apps/Calendar" name="TheCollective/packages_apps_Calendar" />
-  <project path="packages/apps/Camera" name="TheCollective/packages_apps_Camera" />
+  <project path="packages/apps/Camera" name="AOKP/packages_apps_Camera" remote="aokp" revision="jb" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
   <project path="packages/apps/Contacts" name="TheCollective/packages_apps_Contacts" />
   <project path="packages/apps/DeskClock" name="TheCollective/packages_apps_DeskClock" />
   <project path="packages/apps/Email" name="platform/packages/apps/Email" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
-  <project path="packages/apps/Exchange" name="TheCollective/packages_apps_Exchange" />
+  <project path="packages/apps/Exchange" name="AOKP/packages_apps_Exchange" remote="aokp" revision="jb" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
-  <project path="packages/apps/Gallery2" name="TheCollective/packages_apps_Gallery2" />
+  <project path="packages/apps/Gallery2" name="AOKP/packages_apps_Gallery2" remote="aokp" revision="jb" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
   <project path="packages/apps/Mms" name="TheCollective/packages_apps_Mms" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
-  <project path="packages/apps/Nfc" name="TheCollective/packages_apps_Nfc" />
+  <project path="packages/apps/Nfc" name="AOKP/packages_apps_Nfc" remote="aokp" revision="jb" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
-  <project path="packages/apps/Phone" name="TheCollective/packages_apps_Phone" />
+  <project path="packages/apps/Phone" name="AOKP/packages_apps_Phone" remote="aokp" revision="jb" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
   <project path="packages/apps/Settings" name="TheCollective/packages_apps_Settings" />
