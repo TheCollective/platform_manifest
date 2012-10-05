@@ -7,6 +7,9 @@
   <remote  name="cm"
            fetch="https://github.com/CyanogenMod/"
            review="review.cyanogenmod.com" />
+           
+  <remote  name="aokp"
+           fetch="https://github.com/AOKP/" />
 	  
   <remote name="github"
           fetch=".." />
