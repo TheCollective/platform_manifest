@@ -46,7 +46,7 @@
   <project path="device/samsung/d2att" name="TheCollective/android_device_samsung_d2att" />
   <project path="device/samsung/infuse4g" name="TheCollective/android_device_samsung_infuse4g" />
   <project path="device/samsung/maguro" name="TheCollective/aocp_device_samsung_maguro" />
-  <project path="device/samsung/msm8660-common" name="TheCollective/aocp_device_samsung_msm8660-common" />
+  <project path="device/samsung/msm8660-common" name="android_device_samsung_msm8660-common" remote="cm" revision="jellybean"/>
   <project path="device/samsung/msm8960-common" name="TheCollective/android_device_samsung_msm8960-common" />
   <project path="device/samsung/quincy-common" name="TheCollective/aocp_device_samsung_quincy-common" />
   <project path="device/samsung/quincyatt" name="TheCollective/aocp_device_samsung_quincyatt" />
@@ -242,7 +242,7 @@
   <project path="libcore" name="platform/libcore" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
   <project path="libnativehelper" name="platform/libnativehelper" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.1.1_r6" />
-  <project path="kernel/samsung/msm8660-common" name="TheCollective/android_kernel_samsung_msm8660-common" />
+  <project path="kernel/samsung/msm8660-common" name="android_kernel_samsung_msm8660-common" remote="cm" revision="jellybean" />
   <project path="kernel/samsung/d2" name="TheCollective/android_kernel_samsung_d2" />
   <project path="kernel/samsung/dempsey" name="TheCollective/android_kernel_samsung_dempsey" />
   <project path="kernel/samsung/aries" name="TheCollective/android_kernel_samsung_aries" />
