@@ -9,7 +9,8 @@
            review="review.cyanogenmod.com" />
            
   <remote  name="aokp"
-           fetch="https://github.com/AOKP/" />
+           fetch="https://github.com/AOKP/" 
+           review="gerrit.aokp.co" />
 	  
   <remote name="github"
           fetch=".." />
