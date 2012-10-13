@@ -22,7 +22,7 @@
            remote="github"
            sync-j="4" />
 
-  <project path="build" name="AOKP/android_build" remote="aokp" revision="jb" >
+  <project path="build" name="TheCollective/android_build" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   
