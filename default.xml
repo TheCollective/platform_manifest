@@ -11,9 +11,6 @@
   <remote  name="cm"
            fetch="https://github.com/CyanogenMod/"
            review="review.cyanogenmod.com" />
-
-  <remote  name="fj"
-           fetch="https://github.com/flappjaxxx" />
 	  
   <remote name="github"
           fetch=".." />
