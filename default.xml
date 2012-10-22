@@ -247,7 +247,7 @@
   <project path="libcore" name="platform/libcore" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="libnativehelper" name="platform/libnativehelper" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
-  <project path="kernel/samsung/msm8660-common" name="android_kernel_samsung_msm8660-common" remote="cm" revision="jellybean" />
+  <project path="kernel/samsung/msm8660-common" name="flappjaxxx/android_kernel_samsung_msm8660-common" remote="github" revision="jellybean" />
   <project path="kernel/samsung/d2" name="TheCollective/android_kernel_samsung_d2" />
   <project path="kernel/samsung/dempsey" name="TheCollective/android_kernel_samsung_dempsey" />
   <project path="kernel/samsung/aries" name="TheCollective/android_kernel_samsung_aries" />
