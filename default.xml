@@ -328,8 +328,6 @@
 
   <project path="vendor/aocp" name="TheCollective/vendor_aocp" />
   <project path="vendor/aocp/bot" name="TheCollective/pseudo_buildbot" />
-  <project path="vendor/samsung" name="TheCollective/vendor_samsung" />
-  <project path="vendor/samsung/quincyatt" name="TheCollective/vendor_proprietary_quincyatt" />
   
   <project path="system/su" name="android_system_su" remote="cm" revision="jellybean" />
 
