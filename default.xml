@@ -362,9 +362,9 @@
   <project path="system/su" name="android_system_su" remote="cm" revision="refs/heads/cm-10.1" />
   <project path="system/vold" name="android_system_vold" remote="cm" revision="refs/heads/cm-10.1" />
   
-  <project path="buildscripts" name="TheCollective/aocp_buildscripts">
+  <!--<project path="buildscripts" name="TheCollective/aocp_buildscripts">
       <copyfile src="samsung/build.sh" dest="build.sh" />
-  </project>
+  </project> -->
 
   <project path="vendor/aocp" name="TheCollective/vendor_aocp" />
   <project path="vendor/aocp/bot" name="TheCollective/pseudo_buildbot" />
