@@ -276,7 +276,7 @@
   <project path="packages/apps/Browser" name="TheCollective_packages_apps_Browser" />
   <project path="packages/apps/Calculator" name="TheCollective_packages_apps_Calculator" />
   <project path="packages/apps/Calendar" name="TheCollective_packages_apps_Calendar" />
-  <project path="packages/apps/Camera" name="packages_apps_Camera" remote="cm" revision="refs/heads/cm-10.1" />
+  <project path="packages/apps/Camera" name="android_packages_apps_Camera" remote="cm" revision="refs/heads/cm-10.1" />
   <project path="packages/apps/CellBroadcastReceiver" name="android_packages_apps_CellBroadcastReceiver" remote="cm" revision="refs/heads/cm-10.1" />
   <project path="packages/apps/CertInstaller" name="android_packages_apps_CertInstaller" remote="cm" revision="refs/heads/cm-10.1" />
   <project path="packages/apps/Contacts" name="TheCollective/packages_apps_Contacts" />
