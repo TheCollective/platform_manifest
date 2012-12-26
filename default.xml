@@ -4,6 +4,10 @@
   <remote name="aosp"
           fetch="https://android.googlesource.com/" />
 
+  <remote name="aokp"
+           fetch="https://github.com/"
+           review="gerrit.sudoservers.com" />
+
   <remote  name="cm"
            fetch="https://github.com/CyanogenMod/"
            review="review.cyanogenmod.com" />
