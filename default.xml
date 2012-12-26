@@ -228,7 +228,7 @@
   <project path="frameworks/ex" name="android_frameworks_ex" remote="cm" revision="refs/heads/cm-10.1" />
   <project path="frameworks/mff" name="android_frameworks_mff" remote="cm" revision="refs/heads/cm-10.1" />
   <project path="frameworks/ml" name="android_frameworks_ml" remote="cm" revision="refs/heads/cm-10.1" />
-  <project path="frameworks/native" name="frameworks_native" remote="cm" revision="refs/heads/cm-10.1" />
+  <project path="frameworks/native" name="android_frameworks_native" remote="cm" revision="refs/heads/cm-10.1" />
   <project path="frameworks/opt/calendar" name="android_frameworks_opt_calendar" remote="cm" revision="refs/heads/cm-10.1" />
   <project path="frameworks/opt/carddav" name="android_frameworks_opt_carddav" remote="cm" revision="refs/heads/cm-10.1" />
   <project path="frameworks/opt/emoji" name="android_frameworks_opt_emoji" remote="cm" revision="refs/heads/cm-10.1" />
