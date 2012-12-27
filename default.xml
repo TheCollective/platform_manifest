@@ -27,9 +27,6 @@
   <project path="build" name="TheCollective/android_build" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  
-  <project path="platform_manifest" name="TheCollective/platform_manifest" />
-  
   <project path="abi/cpp" name="android_abi_cpp" remote="cm" revision="refs/heads/cm-10.1" />
   <project path="bionic" name="android_bionic" remote="cm" revision="refs/heads/cm-10.1" />
   <project path="bootable/bootloader/legacy" name="android_bootable_bootloader_legacy" remote="cm" revision="refs/heads/cm-10.1" />
@@ -378,5 +375,6 @@
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="TheCollective/vendor_tmobile_libs_com.tmobile.themes" />
   <!--<project path="vendor/tmobile/providers/ThemeManager" name="TheCollective/vendor_tmobile_providers_ThemeManager" />-->
   <project path="vendor/tmobile/products/themes" name="TheCollective/vendor_tmobile_products_themes" />
-
+  
+  <project path="platform_manifest" name="TheCollective/platform_manifest" />
 </manifest>
