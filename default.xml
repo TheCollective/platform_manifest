@@ -372,9 +372,9 @@
   <project path="vendor/qcom/opensource/v8" name="android_vendor_qcom_opensource_v8" remote="cm" revision="refs/heads/cm-10.1" />
 
   <project path="vendor/tmobile/apps/ThemeChooser" name="TheCollective/vendor_tmobile_apps_ThemeChooser" />
-  <project path="vendor/tmobile/libs/com.tmobile.themes" name="TheCollective/vendor_tmobile_libs_com.tmobile.themes" />
-  <!--<project path="vendor/tmobile/providers/ThemeManager" name="TheCollective/vendor_tmobile_providers_ThemeManager" />-->
-  <project path="vendor/tmobile/products/themes" name="TheCollective/vendor_tmobile_products_themes" />
+  <!--<project path="vendor/tmobile/libs/com.tmobile.themes" name="TheCollective/vendor_tmobile_libs_com.tmobile.themes" />
+  <project path="vendor/tmobile/providers/ThemeManager" name="TheCollective/vendor_tmobile_providers_ThemeManager" />
+  <project path="vendor/tmobile/products/themes" name="TheCollective/vendor_tmobile_products_themes" />-->
   
   <project path="platform_manifest" name="TheCollective/platform_manifest" />
 </manifest>
