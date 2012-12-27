@@ -324,7 +324,7 @@
   <project path="packages/screensavers/PhotoTable" name="TheCollective/packages_screensavers_PhotoTable" />
   <project path="packages/screensavers/WebView" name="TheCollective/packages_screensavers_WebView" />
   <project path="packages/wallpapers/Basic" name="android_packages_wallpapers_Basic" remote="cm" revision="refs/heads/cm-10.1" />
-  <project path="packages/wallpapers/Galaxy4" name="android_packages-wallpapers_Galaxy4" remote="cm" revision="refs/heads/cm-10.1" />
+  <project path="packages/wallpapers/Galaxy4" name="android_packages_wallpapers_Galaxy4" remote="cm" revision="refs/heads/cm-10.1" />
   <project path="packages/wallpapers/HoloSpiral" name="android_packages_wallpapers_HoloSpiral" remote="cm" revision="refs/heads/cm-10.1" />
   <project path="packages/wallpapers/LivePicker" name="android_packages_wallpapers_LivePicker" remote="cm" revision="refs/heads/cm-10.1" />
   <project path="packages/wallpapers/MagicSmoke" name="android_packages_wallpapers_MagicSmoke" remote="cm" revision="refs/heads/cm-10.1" />
