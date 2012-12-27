@@ -331,7 +331,7 @@
   <project path="packages/wallpapers/MusicVisualization" name="android_packages_wallpapers_MusicVisualization" remote="cm" revision="refs/heads/cm-10.1" />
   <project path="packages/wallpapers/NoiseField" name="android_packages_wallpapers_NoiseField" remote="cm" revision="refs/heads/cm-10.1" />
   <project path="pdk" name="platform/pdk" remote="aosp" revision="jb-mr1-release" />
-  <project path="prebuilt" name="prebuilt" remote="aosp" revision="jb-release" />
+  <!--<project path="prebuilt" name="android_prebuilt" remote="cm" revision="cm-10.1" />-->
   <project path="prebuilts/clang/darwin-x86/3.1" name="platform/prebuilts/clang/darwin-x86/3.1" groups="darwin" remote="aosp" revision="jb-mr1-release" />
   <project path="prebuilts/clang/darwin-x86/3.2" name="platform/prebuilts/clang/darwin-x86/3.2" groups="darwin" remote="aosp" revision="jb-mr1-release" />
   <project path="prebuilts/clang/linux-x86/3.1" name="platform/prebuilts/clang/linux-x86/3.1" groups="linux" remote="aosp" revision="jb-mr1-release" />
