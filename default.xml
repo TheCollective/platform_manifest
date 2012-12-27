@@ -258,8 +258,8 @@
   <project path="libcore" name="platform/libcore" />
   <project path="libnativehelper" name="platform/libnativehelper" />
   <project path="ndk" name="platform/ndk" />
-  <project path="packages/apps/AoCP" name="TheCollective/packages_apps_AoCP" />
-  <project path="packages/apps/Aspire" name="TheCollective/packages_apps_Aspire" />
+  <project path="packages/apps/AoCP" name="TheCollective/packages_apps_AoCP" remote="aocp" revision="jellybean2" />
+  <project path="packages/apps/Aspire" name="TheCollective/packages_apps_Aspire" remote="aocp" revision="jellybean2" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" />
   <project path="packages/apps/Browser" name="TheCollective/packages_apps_Browser" remote="aocp" revision="jellybean2" />
