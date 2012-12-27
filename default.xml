@@ -281,7 +281,7 @@
   <project path="packages/apps/QuietTime" name="TheCollective/packages_apps_QuietTime" remote="aocp" revision="jellybean2" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
-  <project path="packages/apps/Nfc" name="platfor_packages_apps_Nfc" remote="cm" revision="cm-10.1" />
+  <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" remote="cm" revision="refs/heads/cm-10.1" />
   <project path="packages/apps/Phone" name="TheCollective/packages_apps_Phone" remote="aocp" revision="jellybean2" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
