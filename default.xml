@@ -2,8 +2,8 @@
 <manifest>
 
   <remote name="aosp"
-          fetch="https://android.googlesource.com/"
-          review="https://android-review.googlesource.com/" />
+          fetch="https://android.googlesource.com/" />
+           review="https://android-review.googlesource.com/" />
 
   <remote name="aokp"
           fetch="https://github.com/AOKP/"
@@ -40,7 +40,7 @@
   <project path="development" name="android_development" remote="cm" revision="refs/heads/cm-10.1" />
   <project path="device/common" name="android_device_common" remote="cm" revision="refs/heads/cm-10.1" />
   <project path="device/generic/armv7-a-neon" name="device_generic_armv7-a-neon" remote="cm" revision="refs/heads/cm-10.1" />
-  <project path="device/generic/armv7-a" name="android_device_generic_armv7-a" remote="cm" revision="refs/heads/cm-10.1" />
+  <project path="device/generic/armv7-a" name="device/generic/armv7-a" remote="cm" revision="refs/heads/cm-10.1" />
   <project path="device/generic/common" name="android_device_generic_common" remote="cm" revision="refs/heads/cm-10.1" />
   <project path="device/generic/goldfish" name="android_device_generic_goldfish" remote="cm" revision="refs/heads/cm-10.1" />
   <project path="device/generic/mips" name="android_device_generic_mips" remote="cm" revision="refs/heads/cm-10.1" />
@@ -337,6 +337,8 @@
   <project path="prebuilts/clang/linux-x86/3.1" name="platform/prebuilts/clang/linux-x86/3.1" groups="linux" remote="aosp" revision="jb-mr1-release" />
   <project path="prebuilts/clang/linux-x86/3.2" name="platform/prebuilts/clang/linux-x86/3.2" groups="linux" remote="aosp" revision="jb-mr1-release" />
   <project path="prebuilts/eclipse" name="platform/prebuilts/eclipse" remote="aosp" revision="jb-mr1-release" />
+  <project path="prebuilts/eclipse-build-deps" name="platform/prebuilts/eclipse-build-deps" groups="notdefault,eclipse" remote="aosp" revision="jb-mr1-release" />
+  <project path="prebuilts/eclipse-build-deps-sources" name="platform/prebuilts/eclipse-build-deps-sources" groups="notdefault,eclipse" remote="aosp" revision="jb-mr1-release" />
   <project path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" groups="darwin,arm" remote="aosp" revision="jb-mr1-release" />
   <project path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" groups="darwin,arm" remote="aosp" revision="jb-mr1-release" />
   <project path="prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6" name="platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6" groups="darwin,mips" remote="aosp" revision="jb-mr1-release" />
