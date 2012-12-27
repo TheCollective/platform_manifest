@@ -5,7 +5,7 @@
           fetch="https://android.googlesource.com/" />
 
   <remote name="aokp"
-          fetch="https://github.com/"
+          fetch="https://github.com/AOKP/"
           review="gerrit.sudoservers.com" />
 
   <remote name="cm"
