@@ -149,7 +149,7 @@
   <project path="external/libyuv" name="android_external_libyuv" remote="cm" revision="refs/heads/cm-10.1" />
   <project path="external/linux-tools-perf" name="android_external_linux-tools-perf" remote="cm" revision="refs/heads/cm-10.1" />
   <project path="external/littlemock" name="android_external_littlemock" remote="cm" revision="refs/heads/cm-10.1" />
-  <project path="external/llvm" name="android_external_llvm" remote="cm" revision="refs/heads/cm-10.1" />
+  <project path="external/llvm" name="platform/external/llvm" remote="aosp" revision="jb-mr1-release" />
   <project path="external/lohit-fonts" name="android_external_lohit-fonts" remote="cm" revision="refs/heads/cm-10.1" />
   <project path="external/lsof" name="android_external_lsof" remote="cm" revision="refs/heads/cm-10.1" />
   <project path="external/lzo" name="android_external_lzo" remote="cm" revision="refs/heads/cm-10.1" />
