@@ -331,7 +331,7 @@
   
   <project path="system/su" name="android_system_su" remote="cm" revision="jellybean" />
 
-  <project path="vendor/tmobile/apps/ThemeChooser" name="TheCollective/vendor-tmobile-apps-ThemeChooser" />
+  <project path="vendor/tmobile/apps/ThemeChooser" name="TheCollective/vendor_tmobile_apps_ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="android_vendor_tmobile_libs_com.tmobile.themes" remote="cm" revision="jellybean" />
   <project path="vendor/tmobile/providers/ThemeManager" name="android_vendor_tmobile_providers_ThemeManager" remote="cm" revision="jellybean" />
   <project path="vendor/tmobile/products/themes" name="android_vendor_tmobile_products_themes" remote="cm" revision="jellybean" />
