@@ -42,7 +42,7 @@
   <project path="device/generic/goldfish" name="device/generic/goldfish" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
-  <project path="device/sample" name="TheCollective/device_sample" />
+  <project path="device/sample" name="device/sample" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="device/samsung/maguro" name="TheCollective/aocp_device_samsung_maguro" />
   <project path="device/samsung/toro" name="TheCollective/aocp_device_samsung_toro" />
   <project path="device/samsung/tuna" name="TheCollective/aocp_device_samsung_tuna" />
