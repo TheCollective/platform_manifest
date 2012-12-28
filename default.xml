@@ -208,7 +208,7 @@
   <project path="external/zlib" name="android_external_zlib" remote="cm" revision="cm-10.1" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="platform/frameworks/av" />
-  <project path="frameworks/base" name="TheCollective/frameworks_base" remote="aocp" revision="jellybean2" />
+  <project path="frameworks/base" name="TheCollective/android_frameworks_base" remote="aocp" revision="jellybean2" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" />
   <project path="frameworks/compile/llvm-ndk-cc" name="platform/frameworks/compile/llvm-ndk-cc" />
@@ -361,7 +361,7 @@
   <project path="vendor/aocp" name="TheCollective/vendor_aocp" remote="aocp" revision="jellybean2" />
   <project path="vendor/aocp/bot" name="TheCollective/pseudo_buildbot" remote="aocp" revision="jellybean2" />
 
-  <project path="vendor/tmobile/apps/ThemeChooser" name="TheCollective/themes_platform_vendor_tmobile_apps_ThemeChooser" remote="aocp" revision="jellybean2" />
+  <project path="vendor/tmobile/apps/ThemeChooser" name="TheCollective/vendor_tmobile_apps_ThemeChooser" remote="aocp" revision="jellybean2" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="android_vendor_tmobile_libs_com.tmobile.themes" remote="cm" revision="cm-10.1" />
   <project path="vendor/tmobile/providers/ThemeManager" name="android_vendor_tmobile_providers_ThemeManager" remote="cm" revision="cm-10.1" />
   <project path="vendor/tmobile/products/themes" name="android_vendor_tmobile_products_themes" remote="cm" revision="cm-10.1" />
