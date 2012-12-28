@@ -238,7 +238,7 @@
   <project path="packages/apps/AoCP" name="TheCollective/packages_apps_AoCP" />
   <project path="packages/apps/Aspire" name="TheCollective/packages_apps_Aspire" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
-  <project path="packages/apps/Bluetooth" name="TheCollective/packages_apps_Bluetooth" />
+  <project path="packages/apps/Bluetooth" name="AOKP/packages_apps_Bluetooth" remote="aokp" revision="jb" />
   <project path="packages/apps/Browser" name="TheCollective/packages_apps_Browser" />
   <project path="packages/apps/Calculator" name="TheCollective/packages_apps_Calculator" />
   <project path="packages/apps/Calendar" name="TheCollective/packages_apps_Calendar" />
