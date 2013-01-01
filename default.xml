@@ -5,6 +5,9 @@
            fetch="https://android.googlesource.com/"
            review="https://android-review.googlesource.com/" />
 
+  <remote  name="github"
+           fetch=".." />
+
   <remote  name="aocp"
            fetch="https://github.com/" />
 
