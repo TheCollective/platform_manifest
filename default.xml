@@ -272,7 +272,7 @@
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
   <project path="packages/apps/Contacts" name="TheCollective/packages_apps_Contacts" remote="aocp" revision="jellybean2" />
   <project path="packages/apps/DeskClock" name="TheCollective/packages_apps_DeskClock" remote="aocp" revision="jellybean2" />
-  <project path="packages/apps/Email" name="platform/packages/apps/Email" />
+  <project path="packages/apps/Email" name="TheCollective/android_packages_apps_Email" remote="aocp" revision="jellybean2" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
   <project path="packages/apps/Gallery2" name="android_packages_apps_Gallery2" remote="cm" revision="cm-10.1" />
