@@ -5,5 +5,5 @@
   <project path="kernel/samsung/smdk4210" name="CyanogenMod/android_kernel_samsung_smdk4210" remote="cm" revision="cm-10.1" />
   <project path="kernel/samsung/msm8660-common" name="CyanogenMod/android_kernel_samsung_msm8660-common" remote="cm" revision="cm-10.1" />
   <project path="kernel/samsung/msm8960-common" name="CyanogenMod/android_kernel_samsung_msm8960-common" remote="cm" revision="cm-10.1" />
-  <project path="kernel/samsung/tuna" name="android_kernel_samsung_tuna remote="gh" revision="jellybean2" />
+  <project path="kernel/samsung/tuna" name="android_kernel_samsung_tuna" remote="aocp" revision="jellybean2" />
 </manifest>
