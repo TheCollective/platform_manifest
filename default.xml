@@ -9,7 +9,7 @@
            fetch=".." />
 
   <remote  name="aocp"
-           fetch="http://github.com/" />
+           fetch="http://github.com/TheCollective/" />
 
   <remote  name="cm"
            fetch="http://github.com/CyanogenMod/"
