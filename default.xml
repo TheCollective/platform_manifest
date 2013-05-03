@@ -356,7 +356,6 @@
   <project path="system/core" name="android_system_core" remote="cm" revision="cm-10.1" />
   <project path="system/extras" name="android_system_extras" remote="cm" revision="cm-10.1" />
   <project path="system/media" name="platform/system/media" />
-  <project path="system/su" name="android_system_su" remote="cm" revision="cm-10.1" />
   <project path="system/netd" name="android_system_netd" remote="cm" revision="cm-10.1" />
   <project path="system/security" name="platform/system/security" />
   <project path="system/vold" name="android_system_vold" remote="cm" revision="cm-10.1" />
