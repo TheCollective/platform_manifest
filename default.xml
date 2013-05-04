@@ -25,7 +25,7 @@
   <project path="abi/cpp" name="platform/abi/cpp" />
   <project path="bionic" name="android_bionic" remote="cm" revision="cm-10.1" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
-  <project path="bootable/recovery" name="android_bootable_recovery" remote="cm" revision="cm-10.1" />
+  <project path="bootable/recovery" name="TheCollective/bootable_recovery" remote="aocp" revision="jellybean2" />
   <project path="cts" name="platform/cts" />
   <project path="dalvik" name="android_dalvik" remote="cm" revision="cm-10.1" />
   <project path="development" name="android_development" remote="cm" revision="cm-10.1" />
@@ -114,8 +114,6 @@
   <project path="external/jsr305" name="platform/external/jsr305" />
   <project path="external/junit" name="platform/external/junit" />
   <project path="external/kernel-headers" name="platform/external/kernel-headers" />
-  <project path="external/koush/Superuser" name="Superuser" remote="cm" revision="cm-10.1" />
-  <project path="external/koush/Widgets" name="Widgets" remote="cm" revision="cm-10.1" />
   <project path="external/libcap-ng" name="platform/external/libcap-ng" />
   <project path="external/libffi" name="platform/external/libffi" />
   <project path="external/libgsm" name="platform/external/libgsm" />
@@ -357,10 +355,11 @@
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="android_system_netd" remote="cm" revision="cm-10.1" />
   <project path="system/security" name="platform/system/security" />
+  <project path="system/su" name="TheCollective/android_system_su"  remote="aocp" revision="jellybean2"/>
   <project path="system/vold" name="android_system_vold" remote="cm" revision="cm-10.1" />
   <project path="tools/build" name="platform/tools/build" groups="toolsbuild" />
   
-  <project path="buildscripts" name="TheCollective/aocp_buildscripts"  remote="aocp" revision="jellybean2">
+  <project path="buildscripts" name="TheCollective/aocp_buildscripts" remote="aocp" revision="jellybean2">
       <copyfile src="samsung/build.sh" dest="build.sh" />
   </project> 
 
