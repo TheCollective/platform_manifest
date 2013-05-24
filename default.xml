@@ -370,6 +370,7 @@
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="android_vendor_tmobile_libs_com.tmobile.themes" remote="cm" revision="cm-10.1" />
   <project path="vendor/tmobile/providers/ThemeManager" name="TheCollective/vendor_tmobile_providers_ThemeManager" remote="aocp" revision="jellybean2" />
   <project path="vendor/tmobile/products/themes" name="android_vendor_tmobile_products_themes" remote="cm" revision="cm-10.1" />
+  <project path="vendor/tmobile/themes" name="TheCollective/vendor_tmobile_AoCP_Icon_Pack" remote="aocp" revision="jellybean2" />
 
   <project path="platform_manifest" name="TheCollective/platform_manifest" remote="aocp" revision="jellybean2" />
 </manifest>
