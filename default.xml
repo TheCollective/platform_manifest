@@ -39,7 +39,7 @@
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
   <project path="device/sample" name="device/sample" />
- <project path="docs/source.android.com" name="platform/docs/source.android.com" />
+  <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="android_external_aac" remote="cm" revision="cm-10.1" />
   <project path="external/android-clat" name="platform/external/android-clat" />
   <project path="external/android-mock" name="android_external_android-mock" remote="cm" revision="cm-10.1" />
@@ -254,7 +254,7 @@
   <project path="hardware/qcom/sensors" name="android_hardware_qcom_sensors" remote="cm" revision="cm-10.1" />
   <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" remote="cm" revision="cm-10.1" />
   <project path="hardware/ril" name="android_hardware_ril" remote="cm" revision="cm-10.1" />
-    <project path="hardware/samsung_slsi/exynos5" name="android_hardware_samsung_slsi_exynos5" remote="cm" revision="cm-10.1" />
+  <project path="hardware/samsung_slsi/exynos5" name="android_hardware_samsung_slsi_exynos5" remote="cm" revision="cm-10.1" />
   <project path="hardware/ti/omap3" name="android_hardware_ti_omap3" remote="cm" revision="cm-10.1" />
   <project path="hardware/ti/omap4xxx" name="android_hardware_ti_omap4xxx" remote="cm" revision="cm-10.1" />
   <project path="hardware/ti/wlan" name="android_hardware_ti_wlan" remote="cm" revision="cm-10.1" />
@@ -285,7 +285,7 @@
   <project path="packages/apps/QuietTime" name="TheCollective/packages_apps_QuietTime" remote="aocp" revision="jellybean2" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
-  <project path="packages/apps/Nfc" name="TheCollective/packages_apps_Nfc" remote="aocp" revision="jellybean2" />
+  <project path="packages/apps/Nfc" name="TheCollective/android_packages_apps_Nfc" remote="aocp" revision="jellybean2" />
   <project path="packages/apps/PackageInstaller" name="TheCollective/android_packages_apps_PackageInstaller" remote="aocp" revision="jellybean2" />
   <project path="packages/apps/Phone" name="TheCollective/packages_apps_Phone" remote="aocp" revision="jellybean2" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
