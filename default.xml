@@ -136,13 +136,14 @@
   <project path="external/linux-tools-perf" name="platform/external/linux-tools-perf" />
   <project path="external/littlemock" name="platform/external/littlemock" />
   <project path="external/llvm" name="android_external_llvm" remote="cm" revision="cm-10.2" />
-  <project path="external/lohit-fonts" name="platform/external/lohit-fonts" />
   <project path="external/lsof" name="android_external_lsof" remote="cm" revision="refs/heads/cm-10.2" />
   <project path="external/lzo" name="android_external_lzo" remote="cm" revision="refs/heads/cm-10.2" />
+  <project path="external/marisa-trie" name="platform/external/marisa-trie" />
   <project path="external/markdown" name="platform/external/markdown" />
   <project path="external/mdnsresponder" name="platform/external/mdnsresponder" />
   <project path="external/mesa3d" name="platform/external/mesa3d" />
   <project path="external/mksh" name="platform/external/mksh" />
+  <project path="external/mockito" name="platform/external/mockito" />
   <project path="external/mockwebserver" name="platform/external/mockwebserver" />
   <project path="external/mp4parser" name="platform/external/mp4parser" />
   <project path="external/mtpd" name="platform/external/mtpd" />
@@ -151,9 +152,13 @@
   <project path="external/netcat" name="platform/external/netcat" />
   <project path="external/netperf" name="platform/external/netperf" />
   <project path="external/neven" name="platform/external/neven" />
+  <project path="external/nist-pkits" name="platform/external/nist-pkits" />
   <project path="external/nist-sip" name="android_external_nist-sip" remote="cm" revision="cm-10.2" />
+  <project path="external/noto-fonts" name="platform/external/noto-fonts" />
   <project path="external/oauth" name="platform/external/oauth" />
+  <project path="external/objenesis" name="platform/external/objenesis" />
   <project path="external/okhttp" name="platform/external/okhttp" />
+  <project path="external/open-vcdiff" name="platform/external/open-vcdiff" />
   <project path="external/opencv" name="platform/external/opencv" />
   <project path="external/openfst" name="platform/external/openfst" />
   <project path="external/openssh" name="android_external_openssh" remote="cm" revision="cm-10.2" />
@@ -172,10 +177,12 @@
   <project path="external/quake" name="platform/external/quake" />
   <project path="external/regex-re2" name="android_external_regex-re2" remote="cm" revision="cm-10.2" />
   <project path="external/replicaisland" name="platform/external/replicaisland" />
+  <project path="external/robolectric" name="platform/external/robolectric" />
   <project path="external/rsync" name="android_external_rsync" remote="cm" revision="refs/heads/cm-10.2" />
   <project path="external/safe-iop" name="platform/external/safe-iop" />
   <project path="external/sepolicy" name="platform/external/sepolicy" />
   <project path="external/skia" name="android_external_skia" remote="cm" revision="cm-10.2" />
+  <project path="external/smack" name="platform/external/smack" />
   <project path="external/smali" name="platform/external/smali" />
   <project path="external/sonivox" name="platform/external/sonivox" />
   <project path="external/speex" name="platform/external/speex" />
@@ -188,6 +195,7 @@
   <project path="external/svox" name="android_external_svox" remote="cm" revision="cm-10.2" />
   <project path="external/tagsoup" name="platform/external/tagsoup" />
   <project path="external/tcpdump" name="platform/external/tcpdump" />
+  <project path="external/timezonepicker-support" name="platform/external/timezonepicker-support" />
   <project path="external/tinyalsa" name="platform/external/tinyalsa" />
   <project path="external/tinyxml" name="platform/external/tinyxml" />
   <project path="external/tinyxml2" name="platform/external/tinyxml2" />
