@@ -156,7 +156,6 @@
   <project path="external/netperf" name="platform/external/netperf" />
   <project path="external/neven" name="platform/external/neven" />
   <project path="external/nist-pkits" name="platform/external/nist-pkits" />
-  <project path="external/nist-pkits" name="platform/external/nist-pkits" />
   <project path="external/nist-sip" name="android_external_nist-sip" remote="cm" revision="cm-10.2" />
   <project path="external/noto-fonts" name="platform/external/noto-fonts" />
   <project path="external/oauth" name="platform/external/oauth" />
