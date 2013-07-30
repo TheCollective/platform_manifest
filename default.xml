@@ -322,7 +322,7 @@
   <project path="packages/providers/UserDictionaryProvider" name="platform/packages/providers/UserDictionaryProvider" />
   <project path="packages/screensavers/Basic" name="TheCollective/packages_screensavers_Basic" remote="aocp" revision="jellybean3" />
   <project path="packages/screensavers/PhotoTable" name="TheCollective/packages_screensavers_PhotoTable" remote="aocp" revision="jellybean3" />
-  <project path="packages/screensavers/WebView" name="TheCollective/packages_screensavers_WebView" remote="aocp" revision="jellybean3" />
+  <project path="packages/screensavers/WebView" name="platform/packages/screensavers/WebView" />
   <project path="packages/wallpapers/Basic" name="platform/packages/wallpapers/Basic" />
   <project path="packages/wallpapers/Galaxy4" name="platform/packages/wallpapers/Galaxy4" />
   <project path="packages/wallpapers/HoloSpiral" name="platform/packages/wallpapers/HoloSpiral" />
