@@ -2,8 +2,8 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch="https://android.googlesource.com"
-           review="android-review.googlesource.com" />
+           fetch="http://android.googlesource.com/"
+           review="http://android-review.googlesource.com/" />
 
   <remote  name="github"
            fetch=".." />
@@ -12,7 +12,7 @@
            fetch="http://github.com/" />
 
   <remote  name="cm"
-           fetch="http://github.com/"
+           fetch="http://github.com/CyanogenMod/"
            review="review.cyanogenmod.com" />
 
   <default revision="refs/tags/android-4.3_r2.1"
