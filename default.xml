@@ -383,7 +383,7 @@
   <project path="tools/build" name="platform/tools/build" groups="toolsbuild" />
   <project path="tools/external/fat32lib" name="platform/tools/external/fat32lib" groups="tools" remote="aosp" />
   <project path="tools/external/gradle" name="platform/tools/external/gradle" groups="notdefault,tools" remote="aosp" />
-  <project path="tools/idea" name="platform/tools/idea" />
+  <project path="tools/idea" name="platform/tools/idea" groups="notdefault,tools" />
   <project path="buildscripts" name="TheCollective/aocp_buildscripts" remote="aocp" revision="jellybean3">
       <copyfile src="samsung/build.sh" dest="build.sh" />
   </project> 
