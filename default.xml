@@ -272,7 +272,6 @@
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
   <project path="packages/apps/Contacts" name="TheCollective/packages_apps_Contacts" remote="aocp" revision="jellybean2" />
-  <project path="packages/apps/ContactsCommon" name="android_packages_apps_ContactsCommon" remote="cm" revision="cm-10.2" />
   <project path="packages/apps/DashClock" name="TheCollective/packages_apps_DashClock" remote="aocp" revision="jellybean2" />
   <project path="packages/apps/DeskClock" name="TheCollective/packages_apps_DeskClock" remote="aocp" revision="jellybean2" />
   <project path="packages/apps/Email" name="TheCollective/android_packages_apps_Email" remote="aocp" revision="jellybean2" />
