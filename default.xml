@@ -286,7 +286,7 @@
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
   <project path="packages/apps/Nfc" name="TheCollective/android_packages_apps_Nfc" remote="aocp" revision="jellybean2" />
-  <project path="packages/apps/PackageInstaller" name="TheCollective/android_packages_apps_PackageInstaller" remote="aocp" revision="jellybean2" />
+  <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
   <project path="packages/apps/Phone" name="TheCollective/packages_apps_Phone" remote="aocp" revision="jellybean2" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
