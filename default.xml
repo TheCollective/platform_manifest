@@ -128,12 +128,14 @@
   <project path="external/libogg" name="platform/external/libogg" />
   <project path="external/libpcap" name="platform/external/libpcap" />
   <project path="external/libphonenumber" name="platform/external/libphonenumber" />
+  <project path="external/libphonenumbergoogle" name="android_external_libphonenumbergoogle" remote="cm" revision="cm-10.2" />
   <project path="external/libpng" name="android_external_libpng" remote="cm" revision="cm-10.2" />
   <project path="external/libppp" name="platform/external/libppp" />
   <project path="external/libselinux" name="platform/external/libselinux" />
   <project path="external/libsepol" name="platform/external/libsepol" />
   <project path="external/libusb" name="platform/external/libusb" />
   <project path="external/libusb-compat" name="platform/external/libusb-compat" />
+  <project path="external/libusbx" name="android_external_libusbx" remote="cm" revision="cm-10.2" />
   <project path="external/libvorbis" name="platform/external/libvorbis" />
   <project path="external/libvpx" name="platform/external/libvpx" />
   <project path="external/libxml2" name="android_external_libxml2" remote="cm" revision="cm-10.2" />
@@ -148,7 +150,7 @@
   <project path="external/markdown" name="platform/external/markdown" />
   <project path="external/mdnsresponder" name="platform/external/mdnsresponder" />
   <project path="external/mksh" name="platform/external/mksh" />
-  <project path="external/mockito" name="platform/external/mockito" />
+  <project path="external/mockito" name="platform/external/mockito" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
   <project path="external/mockwebserver" name="platform/external/mockwebserver" />
   <project path="external/mp4parser" name="platform/external/mp4parser" />
   <project path="external/mtpd" name="platform/external/mtpd" />
@@ -227,6 +229,7 @@
   <project path="frameworks/opt/colorpicker" name="android_frameworks_opt_colorpicker" remote="cm" revision="cm-10.2" />
   <project path="frameworks/opt/datetimepicker" name="android_frameworks_opt_datetimepicker" remote="cm" revision="cm-10.2" />
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
+  <project path="frameworks/opt/hardware" name="android_frameworks_opt_hardware" remote="cm" revision="cm-10.2" />
   <project path="frameworks/opt/inputmethodcommon" name="platform/frameworks/opt/inputmethodcommon" />
   <project path="frameworks/opt/mailcommon" name="platform/frameworks/opt/mailcommon" />
   <project path="frameworks/opt/mms" name="platform/frameworks/opt/mms" />
