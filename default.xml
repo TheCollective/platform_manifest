@@ -329,7 +329,7 @@
   <project path="vendor/aocp" name="TheCollective/vendor_aocp" />
   <project path="vendor/aocp/bot" name="TheCollective/pseudo_buildbot" />
   
-  <project path="system/su" name="android_system_su" remote="cm" revision="jellybean" />
+  <project path="system/su" name="TheCollective/android_system_su" />
 
   <project path="vendor/tmobile/apps/ThemeChooser" name="TheCollective/vendor_tmobile_apps_ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="android_vendor_tmobile_libs_com.tmobile.themes" remote="cm" revision="jellybean" />
