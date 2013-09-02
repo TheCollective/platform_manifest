@@ -132,7 +132,7 @@
   <project path="external/libppp" name="platform/external/libppp" />
   <project path="external/libselinux" name="android_external_libselinux" remote="cm" revision="cm-10.2" />
   <project path="external/libsepol" name="platform/external/libsepol" />
-  <project path="external/libusb" name="platform/external/libusb" />
+  <project path="external/libusb" name="android_external_libusb" remote="cm" revision="cm-10.2" />
   <project path="external/libusb-compat" name="platform/external/libusb-compat" />
   <project path="external/libvorbis" name="platform/external/libvorbis" />
   <project path="external/libvpx" name="platform/external/libvpx" />
