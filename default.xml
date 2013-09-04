@@ -133,7 +133,7 @@
   <project path="external/libppp" name="platform/external/libppp" />
   <project path="external/libselinux" name="android_external_libselinux" remote="cm" revision="cm-10.2" />
   <project path="external/libsepol" name="platform/external/libsepol" />
-  <project path="external/libusb" name="platform/external/libusb" />
+  <project path="external/libusb" name="android_external_libusb" remote="cm" revision="cm-10.2" />
   <project path="external/libusb-compat" name="platform/external/libusb-compat" />
   <project path="external/libusbx" name="android_external_libusbx" remote="cm" revision="cm-10.2" />
   <project path="external/libvorbis" name="platform/external/libvorbis" />
@@ -171,6 +171,7 @@
   <project path="external/openssl" name="platform/external/openssl" />
   <project path="external/openvpn" name="android_external_openvpn" remote="cm" revision="refs/heads/cm-10.2" />
   <project path="external/oprofile" name="platform/external/oprofile" />
+  <project path="external/pigz" name="android_external_pigz" remote="cm" revision="cm-10.2" />
   <project path="external/ping" name="platform/external/ping" />
   <project path="external/ping6" name="platform/external/ping6" />
   <project path="external/ppp" name="platform/external/ppp" />
@@ -248,7 +249,7 @@
   <project path="hardware/broadcom/libbt" name="android_hardware_broadcom_libbt" groups="pdk" remote="cm" revision="cm-10.2" />
   <project path="hardware/cm" name="android_hardware_cm" remote="cm" revision="refs/heads/cm-10.2" />
   <project path="hardware/invensense" name="android_hardware_invensense" remote="cm" revision="cm-10.2" />
-  <project path="hardware/libhardware" name="TheCollective/android_hardware_libhardware" remote="aocp" revision="jellybean3" />
+  <project path="hardware/libhardware" name="android_hardware_libhardware" remote="cm" revision="cm-10.2" />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="cm" revision="cm-10.2" />
   <project path="hardware/msm7k" name="android_hardware_msm7k" remote="cm" revision="cm-10.2" />
   <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" remote="cm" revision="cm-10.2" />
