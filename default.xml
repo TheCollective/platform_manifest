@@ -15,7 +15,7 @@
            fetch="http://github.com/CyanogenMod/"
            review="review.cyanogenmod.com" />
 
-  <default revision="refs/tags/android-4.3_r3"
+  <default revision="refs/tags/android-4.3_r3.1"
            remote="aosp"
            sync-j="4" />
 
@@ -294,7 +294,7 @@
   <project path="packages/apps/Gallery2" name="TheCollective/android_packages_apps_Gallery2" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
-  <project path="packages/apps/LegacyCamera" name="android_packages_apps_LegacyCamera" remote="cm" revision="refs/heads/cm-10.2" />
+  <project path="packages/apps/LegacyCamera" name="TheCollective/android_packages_apps_LegacyCamera" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/apps/Mms" name="TheCollective/packages_apps_Mms" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/apps/QuietTime" name="TheCollective/packages_apps_QuietTime" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
@@ -336,7 +336,7 @@
   <project path="packages/wallpapers/Galaxy4" name="platform/packages/wallpapers/Galaxy4" />
   <project path="packages/wallpapers/HoloSpiral" name="platform/packages/wallpapers/HoloSpiral" />
   <project path="packages/wallpapers/LivePicker" name="platform/packages/wallpapers/LivePicker" />
-  <project path="packages/wallpapers/MagicSmoke" name="platform/packages/wallpapers/MagicSmoke" />
+  <project path="packages/wallpapers/MagicSmoke" name="TheCollective/android_packages_wallpapers_MagicSmoke" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/wallpapers/MusicVisualization" name="platform/packages/wallpapers/MusicVisualization" />
   <project path="packages/wallpapers/NoiseField" name="platform/packages/wallpapers/NoiseField" />
   <project path="pdk" name="platform/pdk" />
