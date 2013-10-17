@@ -301,7 +301,7 @@
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
   <project path="packages/apps/Nfc" name="TheCollective/android_packages_apps_Nfc" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" />
-  <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
+  <project path="packages/apps/PackageInstaller" name="TheCollective/packages/apps/PackageInstaller" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/apps/Phone" name="TheCollective/packages_apps_Phone" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
