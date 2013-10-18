@@ -288,6 +288,7 @@
   <project path="packages/apps/DashClock" name="TheCollective/packages_apps_DashClock" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/apps/DeskClock" name="TheCollective/packages_apps_DeskClock" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/apps/Dialer" name="TheCollective/android_packages_apps_Dialer" remote="aocp" revision="refs/heads/jellybean3" />
+  <project path="packages/apps/DSPManager" name="TheCollective/android_packages_apps_DSPManager" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/apps/Email" name="TheCollective/android_packages_apps_Email" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
