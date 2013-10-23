@@ -216,7 +216,7 @@
   <project path="external/yaffs2" name="android_external_yaffs2" remote="cm" revision="refs/heads/cm-10.2" />
   <project path="external/zlib" name="android_external_zlib" remote="cm" revision="refs/heads/cm-10.2" />
   <project path="external/zxing" name="platform/external/zxing" />
-  <project path="frameworks/av" name="TheCollective/frameworks_av" remote="aocp" revision="refs/heads/jellybean3" />
+  <project path="frameworks/av" name="TheCollective/android_frameworks_av" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="frameworks/base" name="TheCollective/android_frameworks_base" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="frameworks/compile/libbcc" name="android_frameworks_compile_libbcc" remote="cm" revision="refs/heads/cm-10.2" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" />
