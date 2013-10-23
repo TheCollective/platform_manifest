@@ -274,19 +274,19 @@
   <project path="libcore" name="android_libcore" remote="cm" revision="refs/heads/cm-10.2" />
   <project path="libnativehelper" name="platform/libnativehelper" />
   <project path="ndk" name="platform/ndk" />
-  <project path="packages/apps/Aspire" name="TheCollective/packages_apps_Aspire" remote="aocp" revision="refs/heads/jellybean3" />
+  <project path="packages/apps/Aspire" name="TheCollective/android_packages_apps_Aspire" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="TheCollective/android_packages_apps_Bluetooth" remote="aocp" revision="refs/heads/jellybean3" />
-  <project path="packages/apps/Browser" name="TheCollective/packages_apps_Browser" remote="aocp" revision="refs/heads/jellybean3" />
-  <project path="packages/apps/Calculator" name="TheCollective/packages_apps_Calculator" remote="aocp" revision="refs/heads/jellybean3" />
-  <project path="packages/apps/Calendar" name="TheCollective/packages_apps_Calendar" remote="aocp" revision="refs/heads/jellybean3" />
+  <project path="packages/apps/Browser" name="TheCollective/android_packages_apps_Browser" remote="aocp" revision="refs/heads/jellybean3" />
+  <project path="packages/apps/Calculator" name="TheCollective/android_packages_apps_Calculator" remote="aocp" revision="refs/heads/jellybean3" />
+  <project path="packages/apps/Calendar" name="TheCollective/android_packages_apps_Calendar" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/apps/Camera" name="TheCollective/android_packages_apps_Camera" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
-  <project path="packages/apps/Contacts" name="TheCollective/packages_apps_Contacts" remote="aocp" revision="refs/heads/jellybean3" />
-  <project path="packages/apps/ContactsCommon" name="TheCollective/packages_apps_ContactsCommon" remote="aocp" revision="refs/heads/jellybean3" />
-  <project path="packages/apps/DashClock" name="TheCollective/packages_apps_DashClock" remote="aocp" revision="refs/heads/jellybean3" />
-  <project path="packages/apps/DeskClock" name="TheCollective/packages_apps_DeskClock" remote="aocp" revision="refs/heads/jellybean3" />
+  <project path="packages/apps/Contacts" name="TheCollective/android_packages_apps_Contacts" remote="aocp" revision="refs/heads/jellybean3" />
+  <project path="packages/apps/ContactsCommon" name="TheCollective/android_packages_apps_ContactsCommon" remote="aocp" revision="refs/heads/jellybean3" />
+  <project path="packages/apps/DashClock" name="TheCollective/android_packages_apps_DashClock" remote="aocp" revision="refs/heads/jellybean3" />
+  <project path="packages/apps/DeskClock" name="TheCollective/android_packages_apps_DeskClock" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/apps/Dialer" name="TheCollective/android_packages_apps_Dialer" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/apps/DSPManager" name="TheCollective/android_packages_apps_DSPManager" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/apps/Email" name="TheCollective/android_packages_apps_Email" remote="aocp" revision="refs/heads/jellybean3" />
@@ -296,28 +296,28 @@
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
   <project path="packages/apps/LegacyCamera" name="TheCollective/android_packages_apps_LegacyCamera" remote="aocp" revision="refs/heads/jellybean3" />
-  <project path="packages/apps/Mms" name="TheCollective/packages_apps_Mms" remote="aocp" revision="refs/heads/jellybean3" />
-  <project path="packages/apps/QuietTime" name="TheCollective/packages_apps_QuietTime" remote="aocp" revision="refs/heads/jellybean3" />
+  <project path="packages/apps/Mms" name="TheCollective/android_packages_apps_Mms" remote="aocp" revision="refs/heads/jellybean3" />
+  <project path="packages/apps/QuietTime" name="TheCollective/android_packages_apps_QuietTime" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/Nfc" name="TheCollective/android_packages_apps_Nfc" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" />
   <project path="packages/apps/PackageInstaller" name="TheCollective/packages_apps_PackageInstaller" remote="aocp" revision="refs/heads/jellybean3" />
-  <project path="packages/apps/Phone" name="TheCollective/packages_apps_Phone" remote="aocp" revision="refs/heads/jellybean3" />
+  <project path="packages/apps/Phone" name="TheCollective/android_packages_apps_Phone" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
-  <project path="packages/apps/Settings" name="TheCollective/packages_apps_Settings" remote="aocp" revision="refs/heads/jellybean3" />
+  <project path="packages/apps/Settings" name="TheCollective/android_packages_apps_Settings" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
-  <project path="packages/apps/SoundRecorder" name="TheCollective/packages_apps_SoundRecorder" remote="aocp" revision="refs/heads/jellybean3" />
-  <project path="packages/apps/SpeechRecorder" name="TheCollective/packages_apps_SpeechRecorder" remote="aocp" revision="refs/heads/jellybean3" />
+  <project path="packages/apps/SoundRecorder" name="TheCollective/android_packages_apps_SoundRecorder" remote="aocp" revision="refs/heads/jellybean3" />
+  <project path="packages/apps/SpeechRecorder" name="TheCollective/android_packages_apps_SpeechRecorder" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" />
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" />
   <project path="packages/apps/Torch" name="android_packages_apps_Torch" remote="cm" revision="refs/heads/cm-10.2" />
   <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" />
   <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" />
   <project path="packages/experimental" name="platform/packages/experimental" />
-  <project path="packages/inputmethods/LatinIME" name="TheCollective/packages_input_LatinIME" remote="aocp" revision="refs/heads/jellybean3" />
+  <project path="packages/inputmethods/LatinIME" name="TheCollective/android_packages_input_LatinIME" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" />
   <project path="packages/inputmethods/PinyinIME" name="platform/packages/inputmethods/PinyinIME" />
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" />
@@ -329,8 +329,8 @@
   <project path="packages/providers/PartnerBookmarksProvider" name="platform/packages/providers/PartnerBookmarksProvider" />
   <project path="packages/providers/TelephonyProvider" name="TheCollective/packages_providers_TelephonyProvider" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/providers/UserDictionaryProvider" name="platform/packages/providers/UserDictionaryProvider" />
-  <project path="packages/screensavers/Basic" name="TheCollective/packages_screensavers_Basic" remote="aocp" revision="refs/heads/jellybean3" />
-  <project path="packages/screensavers/PhotoTable" name="TheCollective/packages_screensavers_PhotoTable" remote="aocp" revision="refs/heads/jellybean3" />
+  <project path="packages/screensavers/Basic" name="TheCollective/android_packages_screensavers_Basic" remote="aocp" revision="refs/heads/jellybean3" />
+  <project path="packages/screensavers/PhotoTable" name="TheCollective/android_packages_screensavers_PhotoTable" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/screensavers/WebView" name="platform/packages/screensavers/WebView" />
   <project path="packages/wallpapers/Basic" name="platform/packages/wallpapers/Basic" />
   <project path="packages/wallpapers/Galaxy4" name="platform/packages/wallpapers/Galaxy4" />
