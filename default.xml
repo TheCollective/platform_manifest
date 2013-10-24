@@ -277,6 +277,7 @@
   <project path="packages/apps/Aspire" name="TheCollective/android_packages_apps_Aspire" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="TheCollective/android_packages_apps_Bluetooth" remote="aocp" revision="refs/heads/jellybean3" />
+  <project path="packages/apps/BluetoothExt" name="android_packages_apps_BluetoothExt" remote="cm" revision="refs/heads/cm-10.2" />
   <project path="packages/apps/Browser" name="TheCollective/android_packages_apps_Browser" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/apps/Calculator" name="TheCollective/android_packages_apps_Calculator" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/apps/Calendar" name="TheCollective/android_packages_apps_Calendar" remote="aocp" revision="refs/heads/jellybean3" />
