@@ -300,7 +300,6 @@
   <project path="packages/apps/LegacyCamera" name="TheCollective/android_packages_apps_LegacyCamera" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/apps/Mms" name="TheCollective/android_packages_apps_Mms" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/apps/QuietTime" name="TheCollective/android_packages_apps_QuietTime" remote="aocp" revision="refs/heads/jellybean3" />
-  <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/Nfc" name="TheCollective/android_packages_apps_Nfc" remote="aocp" revision="refs/heads/jellybean3" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" />
   <project path="packages/apps/PackageInstaller" name="TheCollective/packages_apps_PackageInstaller" remote="aocp" revision="refs/heads/jellybean3" />
