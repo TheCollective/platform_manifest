@@ -23,9 +23,10 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" />
+  <project path="art" name="android_art" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="bionic" name="android_bionic" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
-  <project path="bootable/recovery" name="TheCollective/bootable_recovery" remote="aocp" revision="refs/heads/kitkat" />
+  <project path="bootable/recovery" name="bootable_recovery" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="cts" name="platform/cts" />
   <project path="dalvik" name="android_dalvik" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="developers/build" name="platform/developers/build" />
@@ -33,7 +34,7 @@
   <project path="developers/docs" name="platform/developers/docs" />
   <project path="development" name="android_development" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="device/common" name="android_device_common" remote="cm" revision="refs/heads/cm-11.0" />
-  <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" />
+  <project path="device/generic/armv7-a-neon" name="android_device_generic_armv7-a-neon" groups="pdk" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="device/generic/common" name="device/generic/common" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" />
   <project path="device/generic/mips" name="device/generic/mips" />
@@ -288,10 +289,10 @@
   <project path="hardware/invensense" name="android_hardware_invensense" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="cm" revision="refs/heads/cm-11.0" />
-  <project path="hardware/msm7k" name="android_hardware_msm7k" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="hardware/qcom/audio-caf" name="android_hardware_qcom_audio-caf" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" remote="cm" revision="refs/heads/cm-11.0" />
+  <project path="hardware/qcom/camera" name="android_hardware_qcom_camera" groups="qcom" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="hardware/qcom/display-caf" name="android_hardware_qcom_display-caf" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" remote="cm" revision="refs/heads/cm-11.0" />
