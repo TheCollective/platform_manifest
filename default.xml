@@ -418,7 +418,6 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" groups="pdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" />
   <project path="sdk" name="platform/sdk" />
-  <project path="system/bluetooth" name="android_system_bluetooth" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="system/core" name="android_system_core" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="system/extras" name="android_system_extras" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="system/media" name="platform/system/media" />
