@@ -365,7 +365,7 @@
   <project path="packages/providers/DownloadProvider" name="platform/packages/providers/DownloadProvider" />
   <project path="packages/providers/MediaProvider" name="platform/packages/providers/MediaProvider" />
   <project path="packages/providers/PartnerBookmarksProvider" name="platform/packages/providers/PartnerBookmarksProvider" />
-  <project path="packages/providers/TelephonyProvider" name="TheCollective/android_packages_providers_TelephonyProvider" remote="aocp" revision="refs/heads/kitkat" />
+  <project path="packages/providers/TelephonyProvider" name="android_packages_providers_TelephonyProvider"  remote="cm" revision="refs/heads/cm-11.0" />
   <project path="packages/providers/UserDictionaryProvider" name="platform/packages/providers/UserDictionaryProvider" />
   <project path="packages/screensavers/Basic" name="TheCollective/android_packages_screensavers_Basic" remote="aocp" revision="refs/heads/kitkat" />
   <project path="packages/screensavers/PhotoTable" name="TheCollective/android_packages_screensavers_PhotoTable" remote="aocp" revision="refs/heads/kitkat" />
