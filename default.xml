@@ -26,7 +26,7 @@
   <project path="art" name="android_art" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="bionic" name="android_bionic" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
-  <project path="bootable/recovery" name="bootable_recovery" remote="cm" revision="refs/heads/cm-11.0" />
+  <project path="bootable/recovery" name="android_bootable_recovery" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="cts" name="platform/cts" />
   <project path="dalvik" name="android_dalvik" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="developers/build" name="platform/developers/build" />
@@ -166,14 +166,14 @@
   <project path="external/libpng" name="android_external_libpng" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="external/libppp" name="platform/external/libppp" />
   <project path="external/libselinux" name="android_external_libselinux" remote="cm" revision="refs/heads/cm-11.0" />
-  <project path="external/libsepol" name="platform/external/libsepol" />
+  <project path="external/libsepol" name="platform/external/libsepol" groups="pdk" />
   <project path="external/libusb" name="android_external_libusb" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="external/libusb-compat" name="platform/external/libusb-compat" />
   <project path="external/libvorbis" name="platform/external/libvorbis" />
   <project path="external/libvpx" name="platform/external/libvpx" groups="pdk" />
   <project path="external/libxml2" name="android_external_libxml2" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="external/libxslt" name="platform/external/libxslt" />
-  <project path="external/libyuv" name="platform/external/libyuv" />
+  <project path="external/libyuv" name="platform/external/libyuv" groups="libyuv" />
   <project path="external/linux-tools-perf" name="platform/external/linux-tools-perf" />
   <project path="external/littlemock" name="platform/external/littlemock" />
   <project path="external/llvm" name="android_external_llvm" remote="cm" revision="refs/heads/cm-11.0" />
@@ -209,8 +209,8 @@
   <project path="external/pigz" name="android_external_pigz" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="external/pixman" name="platform/external/pixman" />
   <project path="external/ppp" name="platform/external/ppp" />
-  <project path="external/proguard" name="platform/external/proguard" />
-  <project path="external/protobuf" name="platform/external/protobuf" />
+  <project path="external/proguard" name="platform/external/proguard" groups="pdk-java" />
+  <project path="external/protobuf" name="platform/external/protobuf" groups="pdk" />
   <project path="external/qemu" name="android_external_qemu" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="external/qemu-pc-bios" name="platform/external/qemu-pc-bios" />
   <project path="external/qrngd" name="android_external_qrngd" remote="cm" revision="refs/heads/cm-11.0" />  
@@ -223,27 +223,27 @@
   <project path="external/skia" name="android_external_skia" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="external/smack" name="platform/external/smack" />
   <project path="external/smali" name="platform/external/smali" />
-  <project path="external/sonivox" name="platform/external/sonivox" />
-  <project path="external/speex" name="platform/external/speex" />
+  <project path="external/sonivox" name="platform/external/sonivox" groups="pdk" />
+  <project path="external/speex" name="platform/external/speex" groups="pdk" />
   <project path="external/sqlite" name="android_external_sqlite" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="external/srec" name="android_external_srec" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="external/srtp" name="platform/external/srtp" />
-  <project path="external/stlport" name="platform/external/stlport" />
+  <project path="external/stlport" name="platform/external/stlport" groups="pdk" />
   <project path="external/strace" name="platform/external/strace" />
   <project path="external/stressapptest" name="platform/external/stressapptest" />
   <project path="external/svox" name="android_external_svox" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="external/tagsoup" name="platform/external/tagsoup" />
   <project path="external/tcpdump" name="platform/external/tcpdump" />
   <project path="external/timezonepicker-support" name="platform/external/timezonepicker-support" />
-  <project path="external/tinyalsa" name="platform/external/tinyalsa" />
+  <project path="external/tinyalsa" name="platform/external/tinyalsa" groups="pdk" />
   <project path="external/tinycompress" name="platform/external/tinycompress" groups="pdk" />
-  <project path="external/tinyxml" name="platform/external/tinyxml" />
-  <project path="external/tinyxml2" name="platform/external/tinyxml2" />
-  <project path="external/tremolo" name="platform/external/tremolo" />
+  <project path="external/tinyxml" name="platform/external/tinyxml" groups="pdk" />
+  <project path="external/tinyxml2" name="platform/external/tinyxml2" groups="pdk" />
+  <project path="external/tremolo" name="platform/external/tremolo" groups="pdk" />
   <project path="external/v8" name="platform/external/v8" />
-  <project path="external/valgrind" name="platform/external/valgrind" />
+  <project path="external/valgrind" name="platform/external/valgrind" groups="pdk" />
   <project path="external/webp" name="platform/external/webp" />
-  <project path="external/webrtc" name="platform/external/webrtc" />
+  <project path="external/webrtc" name="platform/external/webrtc" groups="pdk" />
   <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" />
@@ -253,8 +253,8 @@
   <project path="frameworks/av" name="TheCollective/android_frameworks_av" remote="aocp" revision="refs/heads/kitkat" />
   <project path="frameworks/base" name="TheCollective/android_frameworks_base" remote="aocp" revision="refs/heads/kitkat" />
   <project path="frameworks/compile/libbcc" name="android_frameworks_compile_libbcc" remote="cm" revision="refs/heads/cm-11.0" />
-  <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" />
-  <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" />
+  <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" />
+  <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" />
   <project path="frameworks/ex" name="platform/frameworks/ex" />
   <project path="frameworks/mff" name="platform/frameworks/mff" />
   <project path="frameworks/ml" name="platform/frameworks/ml" />
