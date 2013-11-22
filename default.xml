@@ -325,7 +325,7 @@
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
   <project path="packages/apps/Contacts" name="TheCollective/android_packages_apps_Contacts" remote="aocp" revision="refs/heads/kitkat" />
   <project path="packages/apps/ContactsCommon" name="TheCollective/android_packages_apps_ContactsCommon" remote="aocp" revision="refs/heads/kitkat" />
-  <project path="packages/apps/DeskClock" name="TheCollective/android_packages_apps_DeskClock" remote="aocp" revision="kitkat" />
+  <project path="packages/apps/DeskClock" name="TheCollective/android_packages_apps_DeskClock" remote="aocp" revision="refs/heads/kitkat" />
   <project path="packages/apps/Dialer" name="TheCollective/android_packages_apps_Dialer" remote="aocp" revision="refs/heads/kitkat" />
   <project path="packages/apps/Email" name="TheCollective/android_packages_apps_Email" remote="aocp" revision="refs/heads/kitkat" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
