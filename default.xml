@@ -15,7 +15,7 @@
            fetch="http://github.com/CyanogenMod/"
            review="review.cyanogenmod.com" />
 
-  <default revision="refs/tags/android-4.4_r1"
+  <default revision="refs/tags/android-4.4_r1.2"
            remote="aosp"
            sync-j="4" />
 
@@ -66,10 +66,10 @@
   <project path="external/busybox" name="android_external_busybox" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="external/bzip2" name="platform/external/bzip2" />
   <project path="external/ceres-solver" name="platform/external/ceres-solver" />
-  <project path="external/checkpolicy" name="platform/external/checkpolicy" />
-  <project path="external/chromium" name="platform/external/chromium" />
+  <project path="external/checkpolicy" name="android_external_checkpolicy" groups="pdk" remote="cm" revision="refs/heads/cm-11.0" />
+  <project path="external/chromium" name="android_external_chromium" remote="cm" revision="cm-11.0" />
   <project path="external/chromium-libpac" name="platform/external/chromium-libpac" />
-  <project path="external/chromium-trace" name="platform/external/chromium-trace" groups="pdk" />
+  <project path="external/chromium-trace" name="android_external_chromium-trace" groups="pdk" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="external/chromium_org" name="platform/external/chromium_org" />
   <project path="external/chromium_org/sdch/open-vcdiff" name="platform/external/chromium_org/sdch/open-vcdiff" />
   <project path="external/chromium_org/testing/gtest" name="platform/external/chromium_org/testing/gtest" />
@@ -95,7 +95,7 @@
   <project path="external/chromium_org/tools/gyp" name="platform/external/chromium_org/tools/gyp" />
   <project path="external/chromium_org/v8" name="platform/external/chromium_org/v8" />
   <project path="external/clang" name="android_external_clang" groups="pdk" remote="cm" revision="refs/heads/cm-11.0" />
-  <project path="external/compiler-rt" name="platform/external/compiler-rt" groups="pdk" />
+  <project path="external/compiler-rt" name="android_external_compiler-rt" groups="pdk" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="external/crda" name="android_external_crda" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="external/dexmaker" name="platform/external/dexmaker" />
   <project path="external/dhcpcd" name="platform/external/dhcpcd" />
@@ -122,7 +122,7 @@
   <project path="external/gcc-demangle" name="platform/external/gcc-demangle" groups="pdk" />
   <project path="external/genext2fs" name="platform/external/genext2fs" />
   <project path="external/giflib" name="platform/external/giflib" />
-  <project path="external/google-diff-match-patch" name="platform/external/google-diff-match-patch" />
+  <project path="external/google-diff-match-patch" name="android_external_google-diff-match-patch" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="external/grub" name="platform/external/grub" />
   <project path="external/gtest" name="platform/external/gtest" groups="pdk" />
   <project path="external/guava" name="platform/external/guava" />
@@ -311,7 +311,7 @@
   <project path="hardware/ti/wlan" name="android_hardware_ti_wlan" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="hardware/ti/wpan" name="android_hardware_ti_wpan" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="libcore" name="android_libcore" remote="cm" revision="refs/heads/cm-11.0" />
-  <project path="libnativehelper" name="platform/libnativehelper" />
+  <project path="libnativehelper" name="android_libnativehelper" groups="pdk-java" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/Apollo" name="TheCollective/android_packages_apps_Apollo" remote="aocp" revision="refs/heads/kitkat" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
@@ -430,7 +430,7 @@
   <project path="prebuilts/runtime" name="platform/prebuilts/runtime" />
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" groups="pdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" />
-  <project path="sdk" name="platform/sdk" />
+  <project path="sdk" name="android_sdk" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="system/core" name="android_system_core" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="system/extras" name="android_system_extras" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="system/media" name="platform/system/media" />
