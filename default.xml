@@ -122,6 +122,7 @@
   <project path="external/gcc-demangle" name="platform/external/gcc-demangle" groups="pdk" />
   <project path="external/genext2fs" name="platform/external/genext2fs" />
   <project path="external/giflib" name="platform/external/giflib" />
+  <project path="external/google" name="android_external_google" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="external/google-diff-match-patch" name="android_external_google-diff-match-patch" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="external/grub" name="platform/external/grub" />
   <project path="external/gtest" name="platform/external/gtest" groups="pdk" />
