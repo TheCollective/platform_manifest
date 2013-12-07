@@ -320,7 +320,7 @@
   <project path="packages/apps/Browser" name="TheCollective/android_packages_apps_Browser" remote="aocp" revision="refs/heads/kitkat" />
   <project path="packages/apps/Calculator" name="TheCollective/android_packages_apps_Calculator" remote="aocp" revision="refs/heads/kitkat" />
   <project path="packages/apps/Calendar" name="TheCollective/android_packages_apps_Calendar" remote="aocp" revision="refs/heads/kitkat" />
-  <project path="packages/apps/Camera2" name="platform/packages/apps/Camera2" />
+  <project path="packages/apps/Camera2" name="android_packages_apps_Camera2" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
   <project path="packages/apps/Contacts" name="TheCollective/android_packages_apps_Contacts" remote="aocp" revision="refs/heads/kitkat" />
