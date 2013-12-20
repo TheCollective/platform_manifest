@@ -261,7 +261,7 @@
   <project path="frameworks/ex" name="platform/frameworks/ex" />
   <project path="frameworks/mff" name="platform/frameworks/mff" />
   <project path="frameworks/ml" name="platform/frameworks/ml" />
-  <project path="frameworks/native" name="android_frameworks_native" remote="cm" revision="refs/heads/cm-11.0" />
+  <project path="frameworks/native" name="TheCollective/android_frameworks_native" remote="aocp" revision="refs/heads/kitkat" />
   <project path="frameworks/opt/calendar" name="android_frameworks_opt_calendar" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="frameworks/opt/carddav" name="platform/frameworks/opt/carddav" />
   <project path="frameworks/opt/colorpicker" name="android_frameworks_opt_colorpicker" remote="cm" revision="refs/heads/cm-11.0" />
@@ -430,7 +430,7 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" groups="pdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" />
   <project path="sdk" name="android_sdk" remote="cm" revision="refs/heads/cm-11.0" />
-  <project path="system/core" name="android_system_core" remote="cm" revision="refs/heads/cm-11.0" />
+  <project path="system/core" name="TheCollective/android_system_core" remote="aocp" revision="refs/heads/kitkat" />
   <project path="system/extras" name="android_system_extras" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="android_system_netd" remote="cm" revision="refs/heads/cm-11.0" />
