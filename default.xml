@@ -342,7 +342,7 @@
   <project path="packages/apps/QuietTime" name="TheCollective/android_packages_apps_QuietTime" remote="aocp" revision="refs/heads/kitkat" />
   <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" />
-  <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" remote="aocp" revision="refs/heads/kitkat" />
+  <project path="packages/apps/PackageInstaller" name="TheCollective/android_packages_apps_PackageInstaller" remote="aocp" revision="refs/heads/kitkat" />
   <project path="packages/apps/PhoneCommon" name="android_packages_apps_PhoneCommon"  remote="cm" revision="refs/heads/cm-11.0" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
