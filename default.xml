@@ -315,6 +315,7 @@
   <project path="libnativehelper" name="android_libnativehelper" groups="pdk-java" remote="cm" revision="refs/heads/cm-11.0" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/Apollo" name="TheCollective/android_packages_apps_Apollo" remote="aocp" revision="refs/heads/kitkat" />
+  <project path="packages/apps/AOCPWallpapers" name="TheCollective/android_packages_apps_AOCPWallpapers" remote="aocp" revision="refs/heads/kitkat" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="TheCollective/android_packages_apps_Bluetooth" remote="aocp" revision="refs/heads/kitkat" />
   <project path="packages/apps/Browser" name="TheCollective/android_packages_apps_Browser" remote="aocp" revision="refs/heads/kitkat" />
