@@ -234,7 +234,7 @@
   <project path="external/stlport" name="platform/external/stlport" groups="pdk" />
   <project path="external/strace" name="platform/external/strace" />
   <project path="external/stressapptest" name="platform/external/stressapptest" />
-  <project path="external/svox" name="android_external_svox" remote="cm" revision="refs/heads/cm-11.0" />
+  <project path="external/svox" name="platform/external/svox" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/tagsoup" name="platform/external/tagsoup" />
   <project path="external/tcpdump" name="platform/external/tcpdump" />
   <project path="external/timezonepicker-support" name="platform/external/timezonepicker-support" />
